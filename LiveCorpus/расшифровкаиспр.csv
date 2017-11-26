@@ -1,0 +1,1875 @@
+﻿25505;#doc=party.2.txt;;;;;;;;;;;;;;
+25506;1;За;ЗА;PR;;;а;з;;;;;PR;ЗА;PR
+25507;2;кадром;КАДР;S m inan ins sg;;;м;о;р;д;а;к;S;КАДР;S m inan ins sg
+25508;3;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+25509;4;Как;КАК;CONJ;;;к;а;к;;;;CONJ;КАК;CONJ
+25510;5;прошел;ПРОЙТИ;V pf praet sg indic m -;;;л;е;ш;о;р;п;V;ПРОЙТИ;V pf praet sg indic m -
+25511;6;твой;ТВОЙ;APRO - nom sg plen m -;;;й;о;в;т;;;A;ТВОЙ;A - nom sg plen m -
+25512;7;посвят;ПОСВЯТ;S m inan nom sg;;;т;я;в;с;о;п;S;ПОСВЯТ;S m anim nom sg
+25513;8;?;?;SENT;;;;;;;;;SENT;?;SENT
+25514;;;;;;;;;;;;;;;
+25515;1;Наташа;НАТАША;S f anim nom sg;;;а;ш;а;т;а;н;S;НАТАША;S f anim nom sg
+25516;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+25517;3;Ээ;ЭЭ;INTJ;;;э;э;;;;;NONLEX;ЭЭ;NONLEX
+25518;4;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+25519;5;он;ОН;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+25520;6;прошел;ПРОЙТИ;V pf praet sg indic m -;;;л;е;ш;о;р;п;V;ПРОЙТИ;V pf praet sg indic m -
+25521;7;классно;КЛАССНО;ADV -;;;о;н;с;с;а;л;ADV;КЛАССНО;ADV -
+25522;8;.;.;SENT;;;;;;;;;SENT;.;SENT
+25523;;;;;;;;;;;;;;;
+25524;1;В;В;PR;;;в;;;;;;PR;В;PR
+25525;2;общем;ОБЩИЙ;S n inan loc sg;;;м;е;щ;б;о;;A;ОБЩИЙ;A - loc sg plen m -
+25526;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25527;4;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+25528;5;с;С;PR;;;с;;;;;;PR;С;PR
+25529;6;логистики;ЛОГИСТИКА;S f inan gen sg;;;и;к;и;т;с;и;S;ЛОГИСТИКА;S f inan gen sg
+25530;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25531;8;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+25532;9;он;ОН;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+25533;10;проходил;ПРОХОДИТЬ;V ipf praet sg indic m -;;;л;и;д;о;х;о;V;ПРОХОДИТЬ;V ipf praet sg indic m -
+25534;11;в;В;PR;;;в;;;;;;PR;В;PR
+25535;12;пансионате;ПАНСИОНАТ;S m inan loc sg;;;е;т;а;н;о;и;S;ПАНСИОНАТ;S m inan loc sg
+25536;13;«;«;PUNC;;;;;;;;;PUNC;«;PUNC
+25537;14;Искорка;ИСКОРКА;S f inan nom sg;;;а;к;р;о;к;с;S;ИСКОРКА;S f inan nom sg
+25538;15;»;»;PUNC;;;;;;;;;PUNC;»;PUNC
+25539;16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25540;17;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+25541;18;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25542;19;в;В;PR;;;в;;;;;;PR;В;PR
+25543;20;общем;ОБЩИЙ;S n inan loc sg;;;м;е;щ;б;о;;A;ОБЩИЙ;A - loc sg plen m -
+25544;21;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25545;22;ехали;ЕХАТЬ;V ipf praet pl indic - -;;;и;л;а;х;е;;V;ЕХАТЬ;V ipf praet pl indic - -
+25546;23;до;ДО;PR;;;о;д;;;;;PR;ДО;PR
+25547;24;метро;МЕТРО;S n inan nonflex nonflex;;;о;р;т;е;м;;S;МЕТРО;S n inan nonflex nonflex
+25548;25;Саларьево;САЛАРЬЕВО;S n inan gen sg;;;о;в;е;ь;р;а;S;САЛАРЬЕВО;S n inan acc sg
+25549;26;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25550;27;конец;КОНЕЦ;S m inan nom sg;;;ц;е;н;о;к;;S;КОНЕЦ;S m inan nom sg
+25551;28;красной;КРАСНЫЙ;A - gen sg plen f -;;;й;о;н;с;а;р;A;КРАСНЫЙ;A - gen sg plen f -
+25552;29;ветки;ВЕТКА;S f inan gen sg;;;и;к;т;е;в;;S;ВЕТКА;S f inan gen sg
+25553;30;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25554;31;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+25555;32;потом;ПОТОМ;ADV -;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+25556;33;нас;МЫ;SPRO pl 1p - loc;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+25557;34;везли;ВЕЗТИ;V ipf praet pl indic - -;;;и;л;з;е;в;;V;ВЕЗТИ;V ipf praet pl indic - -
+25558;35;на;НА;PR;;;а;н;;;;;PR;НА;PR
+25559;36;автобусе;АВТОБУС;S m inan loc sg;;;е;с;у;б;о;т;S;АВТОБУС;S m inan loc sg
+25560;37;еще;ЕЩЕ;ADV -;;;е;щ;е;;;;ADV;ЕЩЕ;ADV -
+25561;38;минут;МИНУТА;S f inan gen pl;;;т;у;н;и;м;;S;МИНУТА;S f inan gen pl
+25562;39;тридцать;ТРИДЦАТЬ;NUM acc - -;;;ь;т;а;ц;д;и;NUM;ТРИДЦАТЬ;NUM acc - -
+25563;40;.;.;SENT;;;;;;;;;SENT;.;SENT
+25564;;;;;;;;;;;;;;;
+25565;1;Э;Э;INTJ;;;э;;;;;;INTJ;Э;INTJ
+25566;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25567;3;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+25568;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25569;5;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+25570;6;это;ЭТО;SPRO n  inan nom sg;;;о;т;э;;;;S;ЭТО;S n - nom sg
+25571;7;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+25572;8;самое;САМЫЙ;A - nom sg plen n -;;;е;о;м;а;с;;A;САМЫЙ;A - nom sg plen n -
+25573;9;главное;ГЛАВНОЕ;S n inan nom sg;;;е;о;н;в;а;л;S;ГЛАВНОЕ;S n inan nom sg
+25574;10;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25575;11;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25576;12;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25577;13;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+25578;14;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+25579;15;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+25580;16;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25581;17;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+25582;18;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25583;19;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25584;20;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25585;21;";";";";SENT;;;;;;;;;SENT;";";SENT
+25586;;;;;;;;;;;;;;;
+25587;1;Смех;СМЕХ;S m inan nom sg;;;х;е;м;с;;;S;СМЕХ;S m inan nom sg
+25588;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25589;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25590;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+25591;;;;;;;;;;;;;;;
+25592;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+25593;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+25594;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25595;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25596;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+25597;;;;;;;;;;;;;;;
+25598;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25599;2;самое;САМЫЙ;A - nom sg plen n -;;;е;о;м;а;с;;A;САМЫЙ;A - nom sg plen n -
+25600;3;главное;ГЛАВНОЕ;S n inan nom sg;;;е;о;н;в;а;л;S;ГЛАВНОЕ;S n inan nom sg
+25601;4;то;ТО;SPRO n  inan nom sg;;;о;т;;;;;CONJ;ТО;CONJ
+25602;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25603;6;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+25604;7;мне;Я;SPRO sg 1p - loc;;;е;н;м;;;;SPRO;Я;SPRO sg 1p - loc
+25605;8;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25606;9;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25607;10;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25608;11;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25609;12;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+25610;13;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+25611;14;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25612;15;оч;ОЧ;NONLEX;distort;;ч;о;;;;;NONLEX;ОЧ;NONLEX
+25613;16;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25614;17;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25615;18;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25616;19;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25617;20;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+25618;21;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25619;22;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25620;23;";";";";SENT;;;;;;;;;SENT;";";SENT
+25621;;;;;;;;;;;;;;;
+25622;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+25623;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25624;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25625;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25626;5;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25627;6;понравилось;ПОНРАВИТЬСЯ;V pf praet sg indic n -;;;ь;с;о;л;и;в;V;ПОНРАВИТЬСЯ;V pf praet sg indic n -
+25628;7;–;–;PUNC;;;;;;;;;PUNC;–;PUNC
+25629;8;в;В;PR;;;в;;;;;;PR;В;PR
+25630;9;принципе;ПРИНЦИП;S m inan loc sg;;;е;п;и;ц;н;и;S;ПРИНЦИП;S m inan loc sg
+25631;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25632;11;всем;ВСЕ;SPRO dat pl;;;м;е;с;в;;;S;ВСЕ;S - - dat pl
+25633;12;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+25634;13;понравилось;ПОНРАВИТЬСЯ;V pf praet sg indic n -;;;ь;с;о;л;и;в;V;ПОНРАВИТЬСЯ;V pf praet sg indic n -
+25635;14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25636;15;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+25637;16;реально;РЕАЛЬНО;ADV -;;;о;н;ь;л;а;е;ADV;РЕАЛЬНО;ADV -
+25638;17;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+25639;18;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+25640;19;понимаю;ПОНИМАТЬ;V ipf praes sg indic - 1p;;;ю;а;м;и;н;о;V;ПОНИМАТЬ;V ipf praes sg indic - 1p
+25641;20;ребят;РЕБЯТА;S - anim acc pl;;;т;я;б;е;р;;S;РЕБЯТА;S - anim gen pl
+25642;21;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25643;22;которые;КОТОРЫЙ;A - nom pl plen - -;;;е;ы;р;о;т;о;A;КОТОРЫЙ;A - nom pl plen - -
+25644;23;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+25645;24;поехали;ПОЕХАТЬ;V pf praet pl indic - -;;;и;л;а;х;е;о;V;ПОЕХАТЬ;V pf praet pl indic - -
+25646;25;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25647;26;у;У;PR;;;у;;;;;;PR;У;PR
+25648;27;нас;МЫ;SPRO pl 1p - loc;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+25649;28;из;ИЗ;PR;;;з;и;;;;;PR;ИЗ;PR
+25650;29;группы;ГРУППА;S f inan gen sg;;;ы;п;п;у;р;г;S;ГРУППА;S f inan gen sg
+25651;30;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25652;31;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25653;32;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25654;33;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25655;34;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+25656;35;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+25657;36;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25658;37;челаэка;ЧЕЛАЭК;S m inan gen sg;distort;;а;к;э;а;л;е;S;ЧЕЛАЭК;S m inan gen sg
+25659;38;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25660;39;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25661;40;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25662;41;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25663;42;человека;ЧЕЛОВЕК;S m anim gen sg;;;а;к;е;в;о;л;S;ЧЕЛОВЕК;S m anim acc sg
+25664;43;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25665;44;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25666;45;";";";";SENT;;;;;;;;;SENT;";";SENT
+25667;;;;;;;;;;;;;;;
+25668;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+25669;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25670;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25671;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25672;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+25673;;;;;;;;;;;;;;;
+25674;1;три;ТРИ;NUM nom - -;;;и;р;т;;;;NUM;ТРИ;NUM nom - -
+25675;2;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+25676;3;поехали;ПОЕХАТЬ;V pf praet pl indic - -;;;и;л;а;х;е;о;V;ПОЕХАТЬ;V pf praet pl indic - -
+25677;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25678;5;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+25679;6;еще;ЕЩЕ;ADV -;;;е;щ;е;;;;ADV;ЕЩЕ;ADV -
+25680;7;вообще;ВООБЩЕ;ADV -;;;е;щ;б;о;о;в;ADV;ВООБЩЕ;ADV -
+25681;8;на;НА;PR;;;а;н;;;;;PR;НА;PR
+25682;9;потоке;ПОТОК;S m inan loc sg;;;е;к;о;т;о;п;S;ПОТОК;S m inan loc sg
+25683;10;тоже;ТОЖЕ;PART;;;е;ж;о;т;;;PART;ТОЖЕ;PART
+25684;11;.;.;SENT;;;;;;;;;SENT;.;SENT
+25685;;;;;;;;;;;;;;;
+25686;1;Блин;БЛИН;S m inan nom sg;;;н;и;л;б;;;S;БЛИН;S m inan acc sg
+25687;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25688;3;короче;КОРОЧЕ;PART;;;е;ч;о;р;о;к;ADV;КОРОЧЕ;ADV comp
+25689;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25690;5;нас;МЫ;SPRO pl 1p - loc;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+25691;6;на;НА;PR;;;а;н;;;;;PR;НА;PR
+25692;7;потоке;ПОТОК;S m inan loc sg;;;е;к;о;т;о;п;S;ПОТОК;S m inan loc sg
+25693;8;сто;СТО;NUM nom - -;;;о;т;с;;;;NUM;СТО;NUM acc - -
+25694;9;сорок;СОРОК;NUM nom - -;;;к;о;р;о;с;;NUM;СОРОК;NUM acc - -
+25695;10;или;ИЛИ;CONJ;;;и;л;и;;;;CONJ;ИЛИ;CONJ
+25696;11;сто;СТО;NUM nom - -;;;о;т;с;;;;NUM;СТО;NUM acc - -
+25697;12;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25698;13;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25699;14;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25700;15;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25701;16;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+25702;17;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+25703;18;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25704;19;шийсят;ШИЙСЯТ;ADV -;distort;;т;я;с;й;и;ш;ADV;ШИЙСЯТ;ADV -
+25705;20;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25706;21;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25707;22;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25708;23;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25709;24;шестьдесят;ШЕСТЬДЕСЯТ;NUM nom - -;;;т;я;с;е;д;ь;NUM;ШЕСТЬДЕСЯТ;NUM acc - -
+25710;25;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25711;26;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25712;27;";";";";SENT;;;;;;;;;SENT;";";SENT
+25713;;;;;;;;;;;;;;;
+25714;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+25715;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25716;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25717;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25718;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+25719;;;;;;;;;;;;;;;
+25720;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25721;2;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+25722;3;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+25723;4;поех;ПОЕХ;S m inan acc sg;distort;;х;е;о;п;;;S;ПОЕХ;S m inan acc sg
+25724;5;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+25725;6;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+25726;7;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+25727;8;поехало;ПОЕХАТЬ;V pf praet sg indic n -;;;о;л;а;х;е;о;V;ПОЕХАТЬ;V pf praet sg indic n -
+25728;9;человек;ЧЕЛОВЕК;S m anim gen pl;;;к;е;в;о;л;е;S;ЧЕЛОВЕК;S m anim gen pl
+25729;10;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25730;11;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25731;12;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25732;13;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25733;14;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+25734;15;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+25735;16;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25736;17;шийсят;ШИЙСЯТ;ADV -;distort;;т;я;с;й;и;ш;ADV;ШИЙСЯТ;ADV -
+25737;18;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25738;19;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25739;20;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25740;21;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25741;22;шестьдесят;ШЕСТЬДЕСЯТ;NUM acc - -;;;т;я;с;е;д;ь;NUM;ШЕСТЬДЕСЯТ;NUM acc - -
+25742;23;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25743;24;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25744;25;";";";";SENT;;;;;;;;;SENT;";";SENT
+25745;;;;;;;;;;;;;;;
+25746;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+25747;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25748;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25749;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25750;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+25751;;;;;;;;;;;;;;;
+25752;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25753;2;просто;ПРОСТО;ADV -;;;о;т;с;о;р;п;ADV;ПРОСТО;ADV -
+25754;3;много;МНОГО;ADV -;;;о;г;о;н;м;;ADV;МНОГО;ADV -
+25755;4;отсеялось;ОТСЕЯТЬСЯ;V pf praet sg indic n -;;;ь;с;о;л;я;е;V;ОТСЕЯТЬСЯ;V pf praet sg indic n -
+25756;5;.;.;SENT;;;;;;;;;SENT;.;SENT
+25757;;;;;;;;;;;;;;;
+25758;1;Наташа;НАТАША;S f anim nom sg;;;а;ш;а;т;а;н;S;НАТАША;S f anim nom sg
+25759;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+25760;3;Вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+25761;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25762;5;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+25763;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25764;7;сначала;СНАЧАЛА;ADV -;;;а;л;а;ч;а;н;ADV;СНАЧАЛА;ADV -
+25765;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25766;9;значит;ЗНАЧИТ;PART;;;т;и;ч;а;н;з;ADV;ЗНАЧИТ;ADV -
+25767;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25768;11;у;У;PR;;;у;;;;;;PR;У;PR
+25769;12;нас;МЫ;SPRO pl 1p - loc;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+25770;13;были;БЫТЬ;V ipf praet pl indic - -;;;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+25771;14;игры;ИГРА;S f inan nom pl;;;ы;р;г;и;;;S;ИГРА;S f inan nom pl
+25772;15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25773;16;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25774;17;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25775;18;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25776;19;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25777;20;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+25778;21;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+25779;22;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25780;23;наслили;НАСЛИТЬ;V pf praet pl indic - -;distort;;и;л;и;л;с;а;V;НАСЛИТЬ;V pf praet pl indic - -
+25781;24;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25782;25;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25783;26;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25784;27;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25785;28;нас;МЫ;SPRO pl 1p - loc;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+25786;29;разделили;РАЗДЕЛИТЬ;V pf praet pl indic - -;;;и;л;и;л;е;д;V;РАЗДЕЛИТЬ;V pf praet pl indic - -
+25787;30;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25788;31;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25789;32;";";";";SENT;;;;;;;;;SENT;";";SENT
+25790;;;;;;;;;;;;;;;
+25791;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+25792;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25793;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25794;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25795;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+25796;;;;;;;;;;;;;;;
+25797;1;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+25798;2;командам;КОМАНДА;S f inan dat pl;;;м;а;д;н;а;м;S;КОМАНДА;S f inan dat pl
+25799;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25800;4;просто;ПРОСТО;PART;;;о;т;с;о;р;п;PART;ПРОСТО;PART
+25801;5;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+25802;6;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+25803;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25804;8;рандомно;РАНДОМНО;ADV -;;;о;н;м;о;д;н;A;РАНДОМНЫЙ;A - - sg brev n -
+25805;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25806;10;типа;ТИПА;PART;;;а;п;и;т;;;S;ТИП;S m inan gen sg
+25807;11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25808;12;взяли;ВЗЯТЬ;V pf praet pl indic - -;;;и;л;я;з;в;;V;ВЗЯТЬ;V pf praet pl indic - -
+25809;13;там;ТАМ;ADV -;;;м;а;т;;;;ADV;ТАМ;ADV -
+25810;14;из;ИЗ;PR;;;з;и;;;;;PR;ИЗ;PR
+25811;15;одной;ОДИН;A - gen sg plen f -;;;й;о;н;д;о;;A;ОДИН;A - gen sg plen f -
+25812;16;группы;ГРУППА;S f inan gen sg;;;ы;п;п;у;р;г;S;ГРУППА;S f inan gen sg
+25813;17;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+25814;18;два;ДВА;NUM acc m inan;;;а;в;д;;;;NUM;ДВА;NUM acc m inan
+25815;19;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25816;20;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+25817;21;три;ТРИ;NUM nom - -;;;и;р;т;;;;NUM;ТРИ;NUM nom - -
+25818;22;человека;ЧЕЛОВЕК;S m anim gen pl;;;а;к;е;в;о;л;S;ЧЕЛОВЕК;S m anim gen sg
+25819;23;.;.;SENT;;;;;;;;;SENT;.;SENT
+25820;;;;;;;;;;;;;;;
+25821;1;И;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+25822;2;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+25823;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25824;4;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+25825;5;были;БЫТЬ;V ipf praet pl indic - -;;;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+25826;6;в;В;PR;;;в;;;;;;PR;В;PR
+25827;7;одной;ОДИН;A - loc sg plen f -;;;й;о;н;д;о;;A;ОДИН;A - loc sg plen f -
+25828;8;команде;КОМАНДА;S f inan loc sg;;;е;д;н;а;м;о;S;КОМАНДА;S f inan loc sg
+25829;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25830;10;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+25831;11;была;БЫТЬ;V ipf praet sg indic f -;;;а;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic f -
+25832;12;в;В;PR;;;в;;;;;;PR;В;PR
+25833;13;команде;КОМАНДА;S f inan loc sg;;;е;д;н;а;м;о;S;КОМАНДА;S f inan loc sg
+25834;14;желтых;ЖЕЛТЫЙ;S - anim gen pl;;;х;ы;т;л;е;ж;A;ЖЕЛТЫЙ;A - loc pl plen - -
+25835;15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25836;16;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25837;17;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25838;18;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25839;19;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25840;20;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+25841;21;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+25842;22;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25843;23;напмер;НАПМЕР;ADV -;distort;;р;е;м;п;а;н;ADV;НАПМЕР;ADV -
+25844;24;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25845;25;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25846;26;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25847;27;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25848;28;например;НАПРИМЕР;ADV -;;;р;е;м;и;р;п;ADV;НАПРИМЕР;ADV -
+25849;29;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25850;30;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25851;31;";";";";SENT;;;;;;;;;SENT;";";SENT
+25852;;;;;;;;;;;;;;;
+25853;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+25854;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25855;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25856;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25857;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+25858;;;;;;;;;;;;;;;
+25859;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25860;2;там;ТАМ;ADV -;;;м;а;т;;;;ADV;ТАМ;ADV -
+25861;3;были;БЫТЬ;V ipf praet pl indic - -;;;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+25862;4;красные;КРАСНЫЙ;A - nom pl plen - -;;;е;ы;н;с;а;р;A;КРАСНЫЙ;A - nom pl plen - -
+25863;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25864;6;бордовые;БОРДОВЫЙ;A - nom pl plen - -;;;е;ы;в;о;д;р;A;БОРДОВЫЙ;A - nom pl plen - -
+25865;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25866;8;хаки;ХАКИ;A - inan nonflex nonflex;;;и;к;а;х;;;S;ХАКИ;S n inan nonflex nonflex
+25867;9;и;И;CONJ;слитно;;и;;;;;;CONJ;И;CONJ
+25868;10;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+25869;11;и;И;CONJ;слитно;;и;;;;;;CONJ;И;CONJ
+25870;12;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+25871;13;и;И;CONJ;слитно;;и;;;;;;CONJ;И;CONJ
+25872;14;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+25873;15;по-разному;ПО-РАЗНОМУ;ADV -;;;у;м;о;н;з;а;ADV;ПО-РАЗНОМУ;ADV -
+25874;16;.;.;SENT;;;;;;;;;SENT;.;SENT
+25875;;;;;;;;;;;;;;;
+25876;1;Вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+25877;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25878;3;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+25879;4;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+25880;5;этими;ЭТОТ;APRO - ins pl plen - -;;;и;м;и;т;э;;A;ЭТОТ;A - ins pl plen - -
+25881;6;командами;КОМАНДА;S f inan ins pl;;;и;м;а;д;н;а;S;КОМАНДА;S f inan ins pl
+25882;7;бегали;БЕГАТЬ;V ipf praet pl indic - -;;;и;л;а;г;е;б;V;БЕГАТЬ;V ipf praet pl indic - -
+25883;8;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+25884;9;станциям;СТАНЦИЯ;S f inan dat pl;;;м;я;и;ц;н;а;S;СТАНЦИЯ;S f inan dat pl
+25885;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25886;11;проходили;ПРОХОДИТЬ;V ipf praet pl indic - -;;;и;л;и;д;о;х;V;ПРОХОДИТЬ;V ipf praet pl indic - -
+25887;12;квест;КВЕСТ;S f inan acc sg;;;т;с;е;в;к;;S;КВЕСТ;S f inan acc sg
+25888;13;.;.;SENT;;;;;;;;;SENT;.;SENT
+25889;;;;;;;;;;;;;;;
+25890;1;М;М;INTJ;слитно;;м;;;;;;S;М;S - - nonflex nonflex
+25891;2;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+25892;3;м;М;INTJ;слитно;;м;;;;;;S;М;S - - nonflex nonflex
+25893;4;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+25894;5;м;М;INTJ;слитно;;м;;;;;;S;М;S - - nonflex nonflex
+25895;6;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+25896;7;все;ВСЕ;SPRO n  inan nom sg;;;е;с;в;;;;S;ВСЕ;S - - acc pl
+25897;8;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+25898;9;интересно;ИНТЕРЕСНО;ADV -;;;о;н;с;е;р;е;ADV;ИНТЕРЕСНО;ADV -
+25899;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25900;11;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+25901;12;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25902;13;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25903;14;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25904;15;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25905;16;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+25906;17;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+25907;18;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25908;19;от;ОТ;PR;distort;;т;о;;;;;PR;ОТ;PR
+25909;20;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25910;21;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25911;22;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25912;23;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25913;24;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+25914;25;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25915;26;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25916;27;";";";";SENT;;;;;;;;;SENT;";";SENT
+25917;;;;;;;;;;;;;;;
+25918;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+25919;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25920;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25921;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25922;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+25923;;;;;;;;;;;;;;;
+25924;1;что;ЧТО;SPRO n - nom sg;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+25925;2;мне;Я;SPRO sg 1p - loc;;;е;н;м;;;;SPRO;Я;SPRO sg 1p - loc
+25926;3;больше;МНОГО;ADV comp;;;е;ш;ь;л;о;б;ADV;МНОГО;ADV comp
+25927;4;всего;ВСЕ;SPRO n - gen sg;;;о;г;е;с;в;;S;ВСЕ;S n - gen sg
+25928;5;запомнилось;ЗАПОМНИТЬСЯ;V pf praet sg indic n -;;;ь;с;о;л;и;н;V;ЗАПОМНИТЬСЯ;V pf praet sg indic n -
+25929;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25930;7;а;А;INTJ;слитно;;а;;;;;;CONJ;А;CONJ
+25931;8;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+25932;9;а;А;INTJ;слитно;;а;;;;;;CONJ;А;CONJ
+25933;10;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+25934;11;а;А;INTJ;слитно;;а;;;;;;CONJ;А;CONJ
+25935;12;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+25936;13;в;В;PR;;;в;;;;;;PR;В;PR
+25937;14;общем;ОБЩИЙ;S n inan loc sg;;;м;е;щ;б;о;;A;ОБЩИЙ;A - loc sg plen m -
+25938;15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25939;16;называлось;НАЗЫВАТЬСЯ;V ipf praet sg indic n -;;;ь;с;о;л;а;в;V;НАЗЫВАТЬСЯ;V ipf praet sg indic n -
+25940;17;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+25941;18;назывался;НАЗЫВАТЬСЯ;V ipf praet sg indic m -;;;я;с;л;а;в;ы;V;НАЗЫВАТЬСЯ;V ipf praet sg indic m -
+25942;19;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+25943;20;типа;ТИПА;PART;;;а;п;и;т;;;S;ТИП;S m inan gen sg
+25944;21;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25945;22;называлась;НАЗЫВАТЬСЯ;V ipf praet sg indic f -;;;ь;с;а;л;а;в;V;НАЗЫВАТЬСЯ;V ipf praet sg indic f -
+25946;23;станция;СТАНЦИЯ;S f inan nom sg;;;я;и;ц;н;а;т;S;СТАНЦИЯ;S f inan nom sg
+25947;24;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25948;25;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25949;26;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25950;27;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25951;28;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+25952;29;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+25953;30;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25954;31;чёта;ЧЕТА;S f inan nom sg;distort;;а;т;ё;ч;;;S;ЧЕТА;S f inan nom sg
+25955;32;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+25956;33;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25957;34;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25958;35;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+25959;36;что-то;ЧТО-ТО;PART;;;о;т;;о;т;ч;S;ЧТО-ТО;S n inan nom sg
+25960;37;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25961;38;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+25962;39;";";";";SENT;;;;;;;;;SENT;";";SENT
+25963;;;;;;;;;;;;;;;
+25964;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+25965;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+25966;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+25967;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+25968;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+25969;;;;;;;;;;;;;;;
+25970;1;«;«;PUNC;;;;;;;;;PUNC;«;PUNC
+25971;2;В;В;PR;;;в;;;;;;PR;В;PR
+25972;3;темной;ТЕМНЫЙ;A - loc sg plen f -;;;й;о;н;м;е;т;A;ТЕМНЫЙ;A - loc sg plen f -
+25973;4;комнате;КОМНАТА;S f inan loc sg;;;е;т;а;н;м;о;S;КОМНАТА;S f inan loc sg
+25974;5;»;»;PUNC;;;;;;;;;PUNC;»;PUNC
+25975;6;?..;?..;PUNC;;;;;;;;;PUNC;?..;PUNC
+25976;7;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+25977;8;это;ЭТО;SPRO n - nom sg;;;о;т;э;;;;S;ЭТО;S n - nom sg
+25978;9;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+25979;10;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+25980;11;жестко;ЖЕСТКО;ADV -;;;о;к;т;с;е;ж;ADV;ЖЕСТКО;ADV -
+25981;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25982;13;потому что;потому что;CONJ;;;о;т;ч;;у;м;ZERO;потому что;ZERO
+25983;14;там;ТАМ;ADV -;;;м;а;т;;;;ADV;ТАМ;ADV -
+25984;15;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+25985;16;были;БЫТЬ;V ipf praet pl indic - -;;;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+25986;17;совсем;СОВСЕМ;ADV -;;;м;е;с;в;о;с;ADV;СОВСЕМ;ADV -
+25987;18;без;БЕЗ;PR;;;з;е;б;;;;PR;БЕЗ;PR
+25988;19;света;СВЕТ;S m inan gen sg;;;а;т;е;в;с;;S;СВЕТ;S m inan gen sg
+25989;20;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25990;21;надо;НАДО;ADV -;;;о;д;а;н;;;ADV;НАДО;ADV -
+25991;22;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+25992;23;найти;НАЙТИ;V pf - - inf - -;;;и;т;й;а;н;;V;НАЙТИ;V pf - - inf - -
+25993;24;яйца;ЯЙЦО;S n inan acc pl;;;а;ц;й;я;;;S;ЯЙЦО;S n inan acc pl
+25994;25;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25995;26;яйца;ЯЙЦО;S n inan acc pl;;;а;ц;й;я;;;S;ЯЙЦО;S n inan gen sg
+25996;27;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+25997;28;куриные;КУРИНЫЙ;A - acc pl plen - inan;;;е;ы;н;и;р;у;A;КУРИНЫЙ;A - acc pl plen - inan
+25998;29;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+25999;30;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+26000;31;яйца;ЯЙЦО;S n inan acc pl;;;а;ц;й;я;;;S;ЯЙЦО;S n inan acc pl
+26001;32;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26002;33;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26003;34;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26004;35;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26005;36;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26006;37;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+26007;38;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26008;39;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26009;40;вощем;ВОЩ;S m inan ins sg;distort;;м;е;щ;о;в;;S;ВОЩ;S m inan ins sg
+26010;41;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26011;42;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26012;43;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26013;44;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26014;45;в;В;PR;;;в;;;;;;PR;В;PR
+26015;46;общем;ОБЩИЙ;S n inan loc sg;;;м;е;щ;б;о;;A;ОБЩИЙ;A - loc sg plen m -
+26016;47;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26017;48;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26018;49;";";";";SENT;;;;;;;;;SENT;";";SENT
+26019;;;;;;;;;;;;;;;
+26020;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26021;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26022;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26023;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26024;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26025;;;;;;;;;;;;;;;
+26026;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26027;2;как;КАК;CONJ;;;к;а;к;;;;CONJ;КАК;CONJ
+26028;3;шарики;ШАРИК;S m inan nom pl;;;и;к;и;р;а;ш;S;ШАРИК;S m inan nom pl
+26029;4;от;ОТ;PR;;;т;о;;;;;PR;ОТ;PR
+26030;5;пинг-понга;ПИНГ-ПОНГ;S m inan gen sg;;;а;г;н;о;п;;S;ПИНГ-ПОНГ;S m inan gen sg
+26031;6;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26032;7;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26033;8;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26034;9;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26035;10;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+26036;11;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26037;12;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26038;13;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+26039;14;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26040;15;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26041;16;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26042;17;";";";";SENT;;;;;;;;;SENT;";";SENT
+26043;;;;;;;;;;;;;;;
+26044;1;Смех;СМЕХ;S m inan nom sg;;;х;е;м;с;;;S;СМЕХ;S m inan nom sg
+26045;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26046;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26047;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+26048;;;;;;;;;;;;;;;
+26049;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26050;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26051;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26052;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26053;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26054;;;;;;;;;;;;;;;
+26055;1;Да;ДА;PART;;;а;д;;;;;PART;ДА;PART
+26056;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26057;3;ког;КОГ;S m inan acc sg;distort;;г;о;к;;;;S;КОГ;S m inan acc sg
+26058;4;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26059;5;когда;КОГДА;CONJ;;;а;д;г;о;к;;ADV;КОГДА;ADV -
+26060;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26061;7;а;А;INTJ;слитно;;а;;;;;;CONJ;А;CONJ
+26062;8;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26063;9;а;А;INTJ;слитно;;а;;;;;;CONJ;А;CONJ
+26064;10;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26065;11;а;А;INTJ;слитно;;а;;;;;;CONJ;А;CONJ
+26066;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26067;13;когда;КОГДА;CONJ;;;а;д;г;о;к;;CONJ;КОГДА;CONJ
+26068;14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26069;15;а;А;INTJ;слитно;;а;;;;;;CONJ;А;CONJ
+26070;16;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26071;17;а;А;INTJ;слитно;;а;;;;;;CONJ;А;CONJ
+26072;18;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26073;19;а;А;INTJ;слитно;;а;;;;;;CONJ;А;CONJ
+26074;20;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26075;21;нам;МЫ;SPRO pl 1p - dat;;;м;а;н;;;;SPRO;МЫ;SPRO pl 1p - dat
+26076;22;сказали;СКАЗАТЬ;V pf praet pl indic - -;;;и;л;а;з;а;к;V;СКАЗАТЬ;V pf praet pl indic - -
+26077;23;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26078;24;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+26079;25;яйца;ЯЙЦО;S n inan nom pl;;;а;ц;й;я;;;S;ЯЙЦО;S n inan acc pl
+26080;26;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+26081;27;куриные;КУРИНЫЙ;A - nom pl plen - -;;;е;ы;н;и;р;у;A;КУРИНЫЙ;A - nom pl plen - -
+26082;28;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26083;29;у;У;PR;;;у;;;;;;PR;У;PR
+26084;30;нас;МЫ;SPRO pl 1p - loc;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+26085;31;были;БЫТЬ;V ipf praet pl indic - -;;;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+26086;32;такие;ТАКОЙ;APRO - nom pl plen - -;;;е;и;к;а;т;;A;ТАКОЙ;A - nom pl plen - -
+26087;33;же;ЖЕ;PART;;;е;ж;;;;;PART;ЖЕ;PART
+26088;34;лица;ЛИЦО;S n inan nom sg;;;а;ц;и;л;;;S;ЛИЦО;S n inan gen sg
+26089;35;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26090;36;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26091;37;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26092;38;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26093;39;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+26094;40;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26095;41;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26096;42;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+26097;43;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26098;44;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26099;45;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26100;46;";";";";SENT;;;;;;;;;SENT;";";SENT
+26101;;;;;;;;;;;;;;;
+26102;1;Смех;СМЕХ;S m inan nom sg;;;х;е;м;с;;;S;СМЕХ;S m inan nom sg
+26103;2;в;В;PR;;;в;;;;;;PR;В;PR
+26104;3;кадре;КАДР;S m inan loc sg;;;е;р;д;а;к;;S;КАДР;S m inan loc sg
+26105;4;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+26106;5;за;ЗА;PR;;;а;з;;;;;PR;ЗА;PR
+26107;6;кадром;КАДР;S m inan ins sg;;;м;о;р;д;а;к;S;КАДР;S m inan ins sg
+26108;7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26109;8;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26110;9;";";";";SENT;;;;;;;;;SENT;";";SENT
+26111;;;;;;;;;;;;;;;
+26112;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26113;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26114;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26115;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26116;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26117;;;;;;;;;;;;;;;
+26118;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26119;2;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+26120;3;потом;ПОТОМ;ADV -;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+26121;4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26122;5;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26123;6;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26124;7;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26125;8;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+26126;9;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26127;10;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26128;11;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+26129;12;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26130;13;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26131;14;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26132;15;";";";";SENT;;;;;;;;;SENT;";";SENT
+26133;;;;;;;;;;;;;;;
+26134;1;Смех;СМЕХ;S m inan nom sg;;;х;е;м;с;;;S;СМЕХ;S m inan nom sg
+26135;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26136;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26137;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+26138;;;;;;;;;;;;;;;
+26139;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26140;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26141;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26142;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26143;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26144;;;;;;;;;;;;;;;
+26145;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26146;2;вс;ВС;S n inan nonflex nonflex;distort;;с;в;;;;;S;ВС;S n inan nonflex nonflex
+26147;3;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26148;4;все;ВСЕ;ADV -;;;е;с;в;;;;ADV;ВСЕ;ADV -
+26149;5;прояснилось;ПРОЯСНИТЬСЯ;V pf praet sg indic n -;;;ь;с;о;л;и;н;V;ПРОЯСНИТЬСЯ;V pf praet sg indic n -
+26150;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26151;7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26152;8;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26153;9;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26154;10;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26155;11;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+26156;12;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26157;13;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26158;14;вощем;ВОЩ;S m inan ins sg;distort;;м;е;щ;о;в;;S;ВОЩ;S m inan ins sg
+26159;15;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26160;16;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26161;17;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26162;18;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26163;19;в;В;PR;;;в;;;;;;PR;В;PR
+26164;20;общем;ОБЩИЙ;S n inan loc sg;;;м;е;щ;б;о;;A;ОБЩИЙ;A - loc sg plen m -
+26165;21;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26166;22;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26167;23;";";";";SENT;;;;;;;;;SENT;";";SENT
+26168;;;;;;;;;;;;;;;
+26169;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26170;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26171;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26172;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26173;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26174;;;;;;;;;;;;;;;
+26175;1;Вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+26176;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26177;3;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+26178;4;была;БЫТЬ;V ipf praet sg indic f -;;;а;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic f -
+26179;5;просто;ПРОСТО;PART;;;о;т;с;о;р;п;PART;ПРОСТО;PART
+26180;6;кромешная;КРОМЕШНЫЙ;A - nom sg plen f -;;;я;а;н;ш;е;м;A;КРОМЕШНЫЙ;A - nom sg plen f -
+26181;7;темнота;ТЕМНОТА;S f inan nom sg;;;а;т;о;н;м;е;S;ТЕМНОТА;S f inan nom sg
+26182;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26183;9;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+26184;10;ничего;НИЧТО;S n - gen sg;;;о;г;е;ч;и;н;S;НИЧТО;S n - gen sg
+26185;11;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+26186;12;видели;ВИДЕТЬ;V ipf praet pl indic - -;;;и;л;е;д;и;в;V;ВИДЕТЬ;V ipf praet pl indic - -
+26187;13;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26188;14;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+26189;15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26190;16;короче;КОРОЧЕ;PART;;;е;ч;о;р;о;к;A;КОРОТКИЙ;A comp - - plen - -
+26191;17;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26192;18;чтобы;ЧТОБЫ;CONJ;;;ы;б;о;т;ч;;CONJ;ЧТОБЫ;CONJ
+26193;19;достать;ДОСТАТЬ;V pf - - inf - -;;;ь;т;а;т;с;о;V;ДОСТАТЬ;V pf - - inf - -
+26194;20;эти;ЭТОТ;A - nom pl plen - -;;;и;т;э;;;;A;ЭТОТ;A - nom pl plen - -
+26195;21;яйца;ЯЙЦО;S n inan nom pl;;;а;ц;й;я;;;S;ЯЙЦО;S n inan nom pl
+26196;22;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26197;23;надо;НАДО;ADV -;;;о;д;а;н;;;ADV;НАДО;ADV -
+26198;24;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+26199;25;в;В;PR;;;в;;;;;;PR;В;PR
+26200;26;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+26201;27;такое;ТАКОЙ;APRO - acc sg plen n -;;;е;о;к;а;т;;A;ТАКОЙ;A - nom sg plen n -
+26202;28;ведро;ВЕДРО;S n inan acc sg;;;о;р;д;е;в;;S;ВЕДРО;S n inan acc sg
+26203;29;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26204;30;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+26205;31;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26206;32;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+26207;33;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26208;34;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+26209;35;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26210;36;с;С;PR;;;с;;;;;;PR;С;PR
+26211;37;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26212;38;там;ТАМ;ADV -;;;м;а;т;;;;ADV;ТАМ;ADV -
+26213;39;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26214;40;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26215;41;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26216;42;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26217;43;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26218;44;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+26219;45;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26220;46;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26221;47;вощем;ВОЩ;S m inan ins sg;distort;;м;е;щ;о;в;;S;ВОЩ;S m inan ins sg
+26222;48;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26223;49;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26224;50;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26225;51;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26226;52;в;В;PR;;;в;;;;;;PR;В;PR
+26227;53;общем;ОБЩИЙ;S n inan loc sg;;;м;е;щ;б;о;;A;ОБЩИЙ;A - loc sg plen m -
+26228;54;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26229;55;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26230;56;";";";";SENT;;;;;;;;;SENT;";";SENT
+26231;;;;;;;;;;;;;;;
+26232;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26233;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26234;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26235;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26236;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26237;;;;;;;;;;;;;;;
+26238;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26239;2;в;В;PR;;;в;;;;;;PR;В;PR
+26240;3;ведре;ВЕДРО;S n inan loc sg;;;е;р;д;е;в;;S;ВЕДРО;S n inan loc sg
+26241;4;разбитые;РАЗБИТЫЙ;A - acc pl plen - inan;;;е;ы;т;и;б;з;A;РАЗБИТЫЙ;A - acc pl plen - inan
+26242;5;яйца;ЯЙЦО;S n inan acc pl;;;а;ц;й;я;;;S;ЯЙЦО;S n inan acc pl
+26243;6;обычные;ОБЫЧНЫЙ;A - nom pl plen - -;;;е;ы;н;ч;ы;б;A;ОБЫЧНЫЙ;A - nom pl plen - -
+26244;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26245;8;хлеб;ХЛЕБ;S m inan nom sg;;;б;е;л;х;;;S;ХЛЕБ;S m inan nom sg
+26246;9;намешан;НАМЕШАТЬ;PARTCP pf praet - sg brev m pass -;;;н;а;ш;е;м;а;PARTCP;НАМЕШАТЬ;PARTCP pf praet - sg brev m pass -
+26247;10;!;!;SENT;;;;;;;;;SENT;!;SENT
+26248;;;;;;;;;;;;;;;
+26249;1;Надо;НАДО;ADV -;;;о;д;а;н;;;ADV;НАДО;ADV -
+26250;2;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+26251;3;руку;РУКА;S f inan acc sg;;;у;к;у;р;;;S;РУКА;S f inan acc sg
+26252;4;в;В;PR;;;в;;;;;;PR;В;PR
+26253;5;него;ОН;SPRO sg 3p m acc;;;о;г;е;н;;;SPRO;ОН;SPRO sg 3p m acc
+26254;6;засовывать;ЗАСОВЫВАТЬ;V ipf - - inf - -;;;ь;т;а;в;ы;в;V;ЗАСОВЫВАТЬ;V ipf - - inf - -
+26255;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26256;8;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+26257;9;доставать;ДОСТАВАТЬ;V ipf - - inf - -;;;ь;т;а;в;а;т;V;ДОСТАВАТЬ;V ipf - - inf - -
+26258;10;это;ЭТО;S n - acc sg;;;о;т;э;;;;S;ЭТО;S n - acc sg
+26259;11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26260;12;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+26261;13;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26262;14;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+26263;15;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26264;16;а;А;PART;;;а;;;;;;PART;А;PART
+26265;17;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26266;18;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+26267;19;!;!;SENT;;;;;;;;;SENT;!;SENT
+26268;;;;;;;;;;;;;;;
+26269;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26270;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26271;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26272;4;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26273;5;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+26274;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26275;7;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26276;8;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+26277;9;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26278;10;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26279;11;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26280;12;";";";";SENT;;;;;;;;;SENT;";";SENT
+26281;;;;;;;;;;;;;;;
+26282;1;Звуки;ЗВУК;S m inan nom pl;;;и;к;у;в;з;;S;ЗВУК;S m inan nom pl
+26283;2;сочувствия;СОЧУВСТВИЕ;S n inan gen sg;;;я;и;в;т;с;в;S;СОЧУВСТВИЕ;S n inan gen sg
+26284;3;за;ЗА;PR;;;а;з;;;;;PR;ЗА;PR
+26285;4;кадром;КАДР;S m inan ins sg;;;м;о;р;д;а;к;S;КАДР;S m inan ins sg
+26286;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26287;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26288;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+26289;;;;;;;;;;;;;;;
+26290;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26291;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26292;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26293;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26294;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26295;;;;;;;;;;;;;;;
+26296;1;В;В;PR;;;в;;;;;;PR;В;PR
+26297;2;общем;ОБЩИЙ;S n inan loc sg;;;м;е;щ;б;о;;A;ОБЩИЙ;A - loc sg plen m -
+26298;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26299;4;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+26300;5;ни;НИ;PART;;;и;н;;;;;PART;НИ;PART
+26301;6;одного;ОДИН;A - gen sg plen m -;;;о;г;о;н;д;о;A;ОДИН;A - gen sg plen m -
+26302;7;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+26303;8;достала;ДОСТАТЬ;V pf praet sg indic f -;;;а;л;а;т;с;о;V;ДОСТАТЬ;V pf praet sg indic f -
+26304;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26305;10;мне;Я;SPRO sg 1p - loc;;;е;н;м;;;;SPRO;Я;SPRO sg 1p - loc
+26306;11;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+26307;12;противно;ПРОТИВНЫЙ;A - - sg brev n -;;;о;н;в;и;т;о;A;ПРОТИВНЫЙ;A - - sg brev n -
+26308;13;.;.;SENT;;;;;;;;;SENT;.;SENT
+26309;;;;;;;;;;;;;;;
+26310;1;Наташа;НАТАША;S f anim nom sg;;;а;ш;а;т;а;н;S;НАТАША;S f anim nom sg
+26311;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+26312;3;А;А;S - - nonflex nonflex;;;а;;;;;;S;А;S - - nonflex nonflex
+26313;4;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26314;5;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+26315;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26316;7;потом;ПОТОМ;ADV -;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+26317;8;подводили;ПОДВОДИТЬ;V ipf praet pl indic - -;;;и;л;и;д;о;в;V;ПОДВОДИТЬ;V ipf praet pl indic - -
+26318;9;итоги;ИТОГ;S m inan acc pl;;;и;г;о;т;и;;S;ИТОГ;S m inan acc pl
+26319;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26320;11;выступали;ВЫСТУПАТЬ;V ipf praet pl indic - -;;;и;л;а;п;у;т;V;ВЫСТУПАТЬ;V ipf praet pl indic - -
+26321;12;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+26322;13;группам;ГРУППА;S f inan dat pl;;;м;а;п;п;у;р;S;ГРУППА;S f inan dat pl
+26323;14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26324;15;нас;МЫ;SPRO pl 1p - loc;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+26325;16;пять;ПЯТЬ;NUM acc - -;;;ь;т;я;п;;;NUM;ПЯТЬ;NUM acc - -
+26326;17;групп;ГРУППА;S f inan gen pl;;;п;п;у;р;г;;S;ГРУППА;S f inan gen pl
+26327;18;на;НА;PR;;;а;н;;;;;PR;НА;PR
+26328;19;логистике;ЛОГИСТИКА;S f inan dat sg;;;е;к;и;т;с;и;S;ЛОГИСТИКА;S f inan dat sg
+26329;20;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26330;21;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+26331;22;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26332;23;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+26333;24;третья;ТРЕТИЙ;A - nom sg plen f -;;;я;ь;т;е;р;т;A;ТРЕТИЙ;A - nom sg plen f -
+26334;25;группа;ГРУППА;S f inan nom sg;;;а;п;п;у;р;г;S;ГРУППА;S f inan nom sg
+26335;26;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26336;27;всем;ВСЕ;S - - dat pl;;;м;е;с;в;;;S;ВСЕ;S - - dat pl
+26337;28;все;ВСЕ;S - - acc pl;;;е;с;в;;;;S;ВСЕ;S - - acc pl
+26338;29;понравилось;ПОНРАВИТЬСЯ;V pf praet sg indic n -;;;ь;с;о;л;и;в;V;ПОНРАВИТЬСЯ;V pf praet sg indic n -
+26339;30;тоже;ТОЖЕ;PART;;;е;ж;о;т;;;PART;ТОЖЕ;PART
+26340;31;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26341;32;отлично;ОТЛИЧНО;ADV -;;;о;н;ч;и;л;т;ADV;ОТЛИЧНО;ADV -
+26342;33;.;.;SENT;;;;;;;;;SENT;.;SENT
+26343;;;;;;;;;;;;;;;
+26344;1;И;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+26345;2;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26346;3;на;НА;PR;;;а;н;;;;;PR;НА;PR
+26347;4;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26348;5;у;У;PR;;;у;;;;;;PR;У;PR
+26349;6;нас;МЫ;SPRO pl 1p - loc;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+26350;7;был;БЫТЬ;V ipf praet sg indic m -;;;л;ы;б;;;;V;БЫТЬ;V ipf praet sg indic m -
+26351;8;такой;ТАКОЙ;APRO - nom sg plen m -;;;й;о;к;а;т;;A;ТАКОЙ;A - nom sg plen m -
+26352;9;шок;ШОК;S m inan nom sg;;;к;о;ш;;;;S;ШОК;S m inan nom sg
+26353;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26354;11;когда;КОГДА;CONJ;;;а;д;г;о;к;;CONJ;КОГДА;CONJ
+26355;12;наша;НАШ;A - nom sg plen f -;;;а;ш;а;н;;;A;НАШ;A - nom sg plen f -
+26356;13;желтая;ЖЕЛТЫЙ;A - nom sg plen f -;;;я;а;т;л;е;ж;A;ЖЕЛТЫЙ;A - nom sg plen f -
+26357;14;команда;КОМАНДА;S f inan nom sg;;;а;д;н;а;м;о;S;КОМАНДА;S f inan nom sg
+26358;15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26359;16;в;В;PR;;;в;;;;;;PR;В;PR
+26360;17;которой;КОТОРЫЙ;A - loc sg plen f -;;;й;о;р;о;т;о;A;КОТОРЫЙ;A - loc sg plen f -
+26361;18;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+26362;19;выиграла;ВЫИГРАТЬ;V pf praet sg indic f -;;;а;л;а;р;г;и;V;ВЫИГРАТЬ;V pf praet sg indic f -
+26363;20;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26364;21;потому что;потому что;CONJ;;;о;т;ч;;у;м;ZERO;потому что;ZERO
+26365;22;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+26366;23;проиграли;ПРОИГРАТЬ;V pf praet pl indic - -;;;и;л;а;р;г;и;V;ПРОИГРАТЬ;V pf praet pl indic - -
+26367;24;три;ТРИ;NUM nom - -;;;и;р;т;;;;NUM;ТРИ;NUM nom - -
+26368;25;или;ИЛИ;CONJ;;;и;л;и;;;;CONJ;ИЛИ;CONJ
+26369;26;четыре;ЧЕТЫРЕ;NUM nom - -;;;е;р;ы;т;е;ч;NUM;ЧЕТЫРЕ;NUM nom - -
+26370;27;станции;СТАНЦИЯ;S f inan gen sg;;;и;и;ц;н;а;т;S;СТАНЦИЯ;S f inan gen sg
+26371;28;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26372;29;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+26373;30;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26374;31;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26375;32;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26376;33;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26377;34;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+26378;35;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26379;36;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26380;37;чёта;ЧЕТА;S f inan nom sg;distort;;а;т;ё;ч;;;S;ЧЕТА;S f inan nom sg
+26381;38;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26382;39;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26383;40;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26384;41;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26385;42;что-то;ЧТО-ТО;S n inan nom sg;;;о;т;;о;т;ч;S;ЧТО-ТО;S n inan nom sg
+26386;43;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26387;44;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26388;45;";";";";SENT;;;;;;;;;SENT;";";SENT
+26389;;;;;;;;;;;;;;;
+26390;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26391;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26392;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26393;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26394;5;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26395;6;у;У;PR;;;у;;;;;;PR;У;PR
+26396;7;нас;МЫ;SPRO pl 1p - loc;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+26397;8;времени;ВРЕМЯ;S n inan gen sg;;;и;н;е;м;е;р;S;ВРЕМЯ;S n inan gen sg
+26398;9;мало;МАЛО;ADV -;;;о;л;а;м;;;ADV;МАЛО;ADV -
+26399;10;оставалось;ОСТАВАТЬСЯ;V ipf praet sg indic n -;;;ь;с;о;л;а;в;V;ОСТАВАТЬСЯ;V ipf praet sg indic n -
+26400;11;…;…;SENT;;;;;;;;;SENT;…;SENT
+26401;;;;;;;;;;;;;;;
+26402;1;Я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+26403;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26404;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26405;4;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26406;5;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26407;6;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26408;7;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+26409;8;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26410;9;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26411;10;кроч;КРОЧ;S m anim nom sg;distort;;ч;о;р;к;;;S;КРОЧ;S m anim nom sg
+26412;11;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26413;12;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26414;13;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26415;14;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26416;15;короче;КОРОЧЕ;PART;;;е;ч;о;р;о;к;ADV;КОРОЧЕ;ADV comp
+26417;16;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26418;17;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26419;18;";";";";SENT;;;;;;;;;SENT;";";SENT
+26420;;;;;;;;;;;;;;;
+26421;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26422;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26423;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26424;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26425;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26426;;;;;;;;;;;;;;;
+26427;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26428;2;финальное;ФИНАЛЬНЫЙ;A - nom sg plen n -;;;е;о;н;ь;л;а;A;ФИНАЛЬНЫЙ;A - nom sg plen n -
+26429;3;задание;ЗАДАНИЕ;S n inan nom sg;;;е;и;н;а;д;а;S;ЗАДАНИЕ;S n inan nom sg
+26430;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26431;5;которое;КОТОРЫЙ;A - nom sg plen n -;;;е;о;р;о;т;о;A;КОТОРЫЙ;A - nom sg plen n -
+26432;6;как раз;как раз;-;;;з;а;р;;к;а;-;как раз;-
+26433;7;опре;ОПРА;S f anim loc sg;;;е;р;п;о;;;S;ОПРА;S f anim loc sg
+26434;8;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26435;9;ждало;ЖДАТЬ;V ipf praet sg indic n -;;;о;л;а;д;ж;;V;ЖДАТЬ;V ipf praet sg indic n -
+26436;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26437;11;кто;КТО;S m - nom sg;;;о;т;к;;;;S;КТО;S m - nom sg
+26438;12;победитель;ПОБЕДИТЕЛЬ;S m anim nom sg;;;ь;л;е;т;и;д;S;ПОБЕДИТЕЛЬ;S m anim nom sg
+26439;13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26440;14;э;Э;INTJ;;;э;;;;;;INTJ;Э;INTJ
+26441;15;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26442;16;э;Э;INTJ;;;э;;;;;;INTJ;Э;INTJ
+26443;17;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26444;18;э;Э;INTJ;;;э;;;;;;INTJ;Э;INTJ
+26445;19;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26446;20;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+26447;21;таким;ТАКОЙ;APRO - ins sg plen m -;;;м;и;к;а;т;;A;ТАКОЙ;A - ins sg plen m -
+26448;22;:;:;PUNC;;;;;;;;;PUNC;:;PUNC
+26449;23;нужно;НУЖНО;ADV -;;;о;н;ж;у;н;;ADV;НУЖНО;ADV -
+26450;24;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+26451;25;из;ИЗ;PR;;;з;и;;;;;PR;ИЗ;PR
+26452;26;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26453;27;такой;ТАКОЙ;APRO - nom sg plen m -;;;й;о;к;а;т;;A;ТАКОЙ;A - nom sg plen m -
+26454;28;гигантский;ГИГАНТСКИЙ;A - nom sg plen m -;;;й;и;к;с;т;н;A;ГИГАНТСКИЙ;A - nom sg plen m -
+26455;29;мешок;МЕШОК;S m inan nom sg;;;к;о;ш;е;м;;S;МЕШОК;S m inan nom sg
+26456;30;пенопласта;ПЕНОПЛАСТ;S m inan gen sg;;;а;т;с;а;л;п;S;ПЕНОПЛАСТ;S m inan gen sg
+26457;31;перетаскать;ПЕРЕТАСКАТЬ;V pf - - inf - -;;;ь;т;а;к;с;а;V;ПЕРЕТАСКАТЬ;V pf - - inf - -
+26458;32;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26459;33;в;В;PR;;;в;;;;;;PR;В;PR
+26460;34;общем;ОБЩИЙ;S n inan loc sg;;;м;е;щ;б;о;;A;ОБЩИЙ;A - loc sg plen m -
+26461;35;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26462;36;как;КАК;ADV -;;;к;а;к;;;;ADV;КАК;ADV -
+26463;37;можно;МОЖНО;ADV -;;;о;н;ж;о;м;;ADV;МОЖНО;ADV -
+26464;38;больше;МНОГО;ADV comp;;;е;ш;ь;л;о;б;ADV;МНОГО;ADV comp
+26465;39;в;В;PR;;;в;;;;;;PR;В;PR
+26466;40;какую-то;КАКОЙ-ТО;A - acc sg plen f inan;;;о;т;;ю;у;к;A;КАКОЙ-ТО;A - acc sg plen f inan
+26467;41;коробку;КОРОБКА;S f inan acc sg;;;у;к;б;о;р;о;S;КОРОБКА;S f inan acc sg
+26468;42;…;…;SENT;;;;;;;;;SENT;…;SENT
+26469;;;;;;;;;;;;;;;
+26470;1;В;В;PR;;;в;;;;;;PR;В;PR
+26471;2;общем;ОБЩИЙ;S n inan loc sg;;;м;е;щ;б;о;;A;ОБЩИЙ;A - loc sg plen m -
+26472;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26473;4;все;ВСЕ;S - - nom pl;;;е;с;в;;;;S;ВСЕ;S - - nom pl
+26474;5;таскали;ТАСКАТЬ;V ipf praet pl indic - -;;;и;л;а;к;с;а;V;ТАСКАТЬ;V ipf praet pl indic - -
+26475;6;как;КАК;CONJ;;;к;а;к;;;;CONJ;КАК;CONJ
+26476;7;могли;МОЧЬ;V ipf praet pl indic - -;;;и;л;г;о;м;;V;МОЧЬ;V ipf praet pl indic - -
+26477;8;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26478;9;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+26479;10;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+26480;11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26481;12;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+26482;13;выиграли;ВЫИГРАТЬ;V pf praet pl indic - -;;;и;л;а;р;г;и;V;ВЫИГРАТЬ;V pf praet pl indic - -
+26483;14;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26484;15;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26485;16;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26486;17;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26487;18;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+26488;19;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26489;20;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26490;21;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+26491;22;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26492;23;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26493;24;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26494;25;";";";";SENT;;;;;;;;;SENT;";";SENT
+26495;;;;;;;;;;;;;;;
+26496;1;Смех;СМЕХ;S m inan nom sg;;;х;е;м;с;;;S;СМЕХ;S m inan nom sg
+26497;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26498;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26499;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+26500;;;;;;;;;;;;;;;
+26501;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26502;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26503;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26504;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26505;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26506;;;;;;;;;;;;;;;
+26507;1;Наташа;НАТАША;S f anim nom sg;;;а;ш;а;т;а;н;S;НАТАША;S f anim nom sg
+26508;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+26509;3;Ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+26510;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26511;5;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+26512;6;после;ПОСЛЕ;PR;;;е;л;с;о;п;;PR;ПОСЛЕ;PR
+26513;7;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26514;8;э;Э;S - - nonflex nonflex;;;э;;;;;;S;Э;S - - nonflex nonflex
+26515;9;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26516;10;э;Э;INTJ;;;э;;;;;;INTJ;Э;INTJ
+26517;11;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26518;12;э;Э;S - - nonflex nonflex;;;э;;;;;;S;Э;S - - nonflex nonflex
+26519;13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26520;14;официальной;ОФИЦИАЛЬНЫЙ;A - gen sg plen f -;;;й;о;н;ь;л;а;A;ОФИЦИАЛЬНЫЙ;A - gen sg plen f -
+26521;15;части;ЧАСТЬ;S f inan gen sg;;;и;т;с;а;ч;;S;ЧАСТЬ;S f inan gen sg
+26522;16;началась;НАЧАТЬСЯ;V pf praet sg indic f -;;;ь;с;а;л;а;ч;V;НАЧАТЬСЯ;V pf praet sg indic f -
+26523;17;неофициальная;НЕОФИЦИАЛЬНЫЙ;A - nom sg plen f -;;;я;а;н;ь;л;а;A;НЕОФИЦИАЛЬНЫЙ;A - nom sg plen f -
+26524;18;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26525;19;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26526;20;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26527;21;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26528;22;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+26529;23;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26530;24;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26531;25;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+26532;26;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26533;27;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26534;28;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26535;29;";";";";SENT;;;;;;;;;SENT;";";SENT
+26536;;;;;;;;;;;;;;;
+26537;1;Смех;СМЕХ;S m inan nom sg;;;х;е;м;с;;;S;СМЕХ;S m inan nom sg
+26538;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26539;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26540;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+26541;;;;;;;;;;;;;;;
+26542;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26543;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26544;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26545;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26546;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26547;;;;;;;;;;;;;;;
+26548;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26549;2;которая;КОТОРЫЙ;A - nom sg plen f -;;;я;а;р;о;т;о;A;КОТОРЫЙ;A - nom sg plen f -
+26550;3;состояла;СОСТОЯТЬ;V ipf praet sg indic f -;;;а;л;я;о;т;с;V;СОСТОЯТЬ;V ipf praet sg indic f -
+26551;4;на;НА;PR;;;а;н;;;;;PR;НА;PR
+26552;5;девяносто;ДЕВЯНОСТО;NUM acc - -;;;о;т;с;о;н;я;NUM;ДЕВЯНОСТО;NUM acc - -
+26553;6;процентов;ПРОЦЕНТ;S m inan gen pl;;;в;о;т;н;е;ц;S;ПРОЦЕНТ;S m inan gen pl
+26554;7;из;ИЗ;PR;;;з;и;;;;;PR;ИЗ;PR
+26555;8;алкоголя;АЛКОГОЛЬ;S m inan gen sg;;;я;л;о;г;о;к;S;АЛКОГОЛЬ;S m inan gen sg
+26556;9;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+26557;10;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26558;11;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+26559;12;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26560;13;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+26561;14;на;НА;PR;;;а;н;;;;;PR;НА;PR
+26562;15;десять;ДЕСЯТЬ;NUM acc - -;;;ь;т;я;с;е;д;NUM;ДЕСЯТЬ;NUM acc - -
+26563;16;процентов;ПРОЦЕНТ;S m inan gen pl;;;в;о;т;н;е;ц;S;ПРОЦЕНТ;S m inan gen pl
+26564;17;из;ИЗ;PR;;;з;и;;;;;PR;ИЗ;PR
+26565;18;всяких;ВСЯКИЙ;A - gen pl plen - -;;;х;и;к;я;с;в;A;ВСЯКИЙ;A - gen pl plen - -
+26566;19;других;ДРУГОЙ;A - gen pl plen - -;;;х;и;г;у;р;д;A;ДРУГОЙ;A - gen pl plen - -
+26567;20;вещей;ВЕЩЬ;S f inan gen pl;;;й;е;щ;е;в;;S;ВЕЩЬ;S f inan gen pl
+26568;21;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26569;22;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26570;23;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26571;24;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26572;25;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+26573;26;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26574;27;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26575;28;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+26576;29;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26577;30;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26578;31;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26579;32;";";";";SENT;;;;;;;;;SENT;";";SENT
+26580;;;;;;;;;;;;;;;
+26581;1;Смех;СМЕХ;S m inan nom sg;;;х;е;м;с;;;S;СМЕХ;S m inan nom sg
+26582;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26583;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26584;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+26585;;;;;;;;;;;;;;;
+26586;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26587;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26588;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26589;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26590;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26591;;;;;;;;;;;;;;;
+26592;1;Но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+26593;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26594;3;блин;БЛИН;S m inan nom sg;;;н;и;л;б;;;S;БЛИН;S m inan nom sg
+26595;4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26596;5;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26597;6;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26598;7;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26599;8;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+26600;9;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26601;10;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26602;11;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+26603;12;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26604;13;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26605;14;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26606;15;";";";";SENT;;;;;;;;;SENT;";";SENT
+26607;;;;;;;;;;;;;;;
+26608;1;Смех;СМЕХ;S m inan nom sg;;;х;е;м;с;;;S;СМЕХ;S m inan nom sg
+26609;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26610;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26611;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+26612;;;;;;;;;;;;;;;
+26613;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26614;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26615;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26616;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26617;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26618;;;;;;;;;;;;;;;
+26619;1;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26620;2;некоторые;НЕКОТОРЫЙ;A - nom pl plen - -;;;е;ы;р;о;т;о;A;НЕКОТОРЫЙ;A - nom pl plen - -
+26621;3;ребята;РЕБЯТА;S - anim nom pl;;;а;т;я;б;е;р;S;РЕБЯТА;S - anim nom pl
+26622;4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26623;5;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26624;6;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26625;7;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26626;8;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+26627;9;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26628;10;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26629;11;вапще;ВАПЩЕ;ADV -;distort;;е;щ;п;а;в;;ADV;ВАПЩЕ;ADV -
+26630;12;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26631;13;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26632;14;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26633;15;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26634;16;вообще;ВООБЩЕ;ADV -;;;е;щ;б;о;о;в;ADV;ВООБЩЕ;ADV -
+26635;17;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26636;18;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26637;19;";";";";SENT;;;;;;;;;SENT;";";SENT
+26638;;;;;;;;;;;;;;;
+26639;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26640;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26641;3;потеряли;ПОТЕРЯТЬ;V pf praet pl indic - -;;;и;л;я;р;е;т;V;ПОТЕРЯТЬ;V pf praet pl indic - -
+26642;4;контроль;КОНТРОЛЬ;S m inan acc sg;;;ь;л;о;р;т;н;S;КОНТРОЛЬ;S m inan acc sg
+26643;5;над;НАД;PR;;;д;а;н;;;;PR;НАД;PR
+26644;6;собой;СЕБЯ;SPRO - - - ins;;;й;о;б;о;с;;SPRO;СЕБЯ;SPRO - - - ins
+26645;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26646;8;м;М;S - - nonflex nonflex;;;м;;;;;;S;М;S - - nonflex nonflex
+26647;9;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26648;10;м;М;S - - nonflex nonflex;;;м;;;;;;S;М;S - - nonflex nonflex
+26649;11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26650;12;у;У;PR;;;у;;;;;;PR;У;PR
+26651;13;нас;МЫ;SPRO pl 1p - loc;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+26652;14;есть;БЫТЬ;V ipf praes sg indic - 3p;;;ь;т;с;е;;;V;БЫТЬ;V ipf praes sg indic - 3p
+26653;15;такие;ТАКОЙ;APRO - nom pl plen - inan;;;е;и;к;а;т;;A;ТАКОЙ;A - acc pl plen - inan
+26654;16;на;НА;PR;;;а;н;;;;;PR;НА;PR
+26655;17;потоке;ПОТОК;S m inan loc sg;;;е;к;о;т;о;п;S;ПОТОК;S m inan loc sg
+26656;18;…;…;SENT;;;;;;;;;SENT;…;SENT
+26657;;;;;;;;;;;;;;;
+26658;1;Вроде;ВРОДЕ;PART;;;е;д;о;р;в;;PART;ВРОДЕ;PART
+26659;2;все;ВСЕ;S - - acc pl;;;е;с;в;;;;S;ВСЕ;S - - acc pl
+26660;3;обошлось;ОБОЙТИСЬ;V pf praet sg indic n -;;;ь;с;о;л;ш;о;V;ОБОЙТИСЬ;V pf praet sg indic n -
+26661;4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26662;5;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26663;6;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26664;7;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26665;8;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+26666;9;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26667;10;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26668;11;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+26669;12;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26670;13;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26671;14;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26672;15;";";";";SENT;;;;;;;;;SENT;";";SENT
+26673;;;;;;;;;;;;;;;
+26674;1;Посмеивание;ПОСМЕИВАНИЕ;S n inan acc sg;;;е;и;н;а;в;и;S;ПОСМЕИВАНИЕ;S n inan acc sg
+26675;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26676;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26677;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+26678;;;;;;;;;;;;;;;
+26679;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26680;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26681;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26682;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26683;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26684;;;;;;;;;;;;;;;
+26685;1;Ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+26686;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26687;3;типа;ТИПА;PART;;;а;п;и;т;;;S;ТИП;S m inan gen sg
+26688;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26689;5;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+26690;6;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;ADV -
+26691;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26692;8;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+26693;9;кто-то;КТО-ТО;S m - nom sg;;;о;т;;о;т;к;S;КТО-ТО;S m - nom sg
+26694;10;с;С;PR;;;с;;;;;;PR;С;PR
+26695;11;утра;УТРО;S n inan gen sg;;;а;р;т;у;;;S;УТРО;S n inan gen sg
+26696;12;искал;ИСКАТЬ;V ipf praet sg indic m -;;;л;а;к;с;и;;V;ИСКАТЬ;V ipf praet sg indic m -
+26697;13;там;ТАМ;ADV -;;;м;а;т;;;;ADV;ТАМ;ADV -
+26698;14;свои;СВОЙ;A - nom pl plen - -;;;и;о;в;с;;;A;СВОЙ;A - nom pl plen - -
+26699;15;вещи;ВЕЩЬ;S f inan nom pl;;;и;щ;е;в;;;S;ВЕЩЬ;S f inan nom pl
+26700;16;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+26701;17;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26702;18;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+26703;19;всему;ВЕСЬ;A - dat sg plen m -;;;у;м;е;с;в;;A;ВЕСЬ;A - dat sg plen m -
+26704;20;корпусу;КОРПУС;S m inan dat sg;;;у;с;у;п;р;о;S;КОРПУС;S m inan dat sg
+26705;21;…;…;SENT;;;;;;;;;SENT;…;SENT
+26706;;;;;;;;;;;;;;;
+26707;1;За;ЗА;PR;;;а;з;;;;;PR;ЗА;PR
+26708;2;кадром;КАДР;S m inan ins sg;;;м;о;р;д;а;к;S;КАДР;S m inan ins sg
+26709;3;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+26710;4;Прямо;ПРЯМО;PART;;;о;м;я;р;п;;PART;ПРЯМО;PART
+26711;5;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;ADV -
+26712;6;…;…;SENT;;;;;;;;;SENT;…;SENT
+26713;;;;;;;;;;;;;;;
+26714;1;Наташа;НАТАША;S f anim nom sg;;;а;ш;а;т;а;н;S;НАТАША;S f anim nom sg
+26715;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+26716;3;Да;ДА;PART;;;а;д;;;;;PART;ДА;PART
+26717;4;…;…;SENT;;;;;;;;;SENT;…;SENT
+26718;;;;;;;;;;;;;;;
+26719;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26720;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26721;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26722;4;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26723;5;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+26724;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26725;7;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26726;8;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+26727;9;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26728;10;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26729;11;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26730;12;";";";";SENT;;;;;;;;;SENT;";";SENT
+26731;;;;;;;;;;;;;;;
+26732;1;Посмеивание;ПОСМЕИВАНИЕ;S n inan acc sg;;;е;и;н;а;в;и;S;ПОСМЕИВАНИЕ;S n inan acc sg
+26733;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26734;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26735;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+26736;;;;;;;;;;;;;;;
+26737;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26738;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26739;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26740;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26741;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26742;;;;;;;;;;;;;;;
+26743;1;Все;ВСЕ;PART;;;е;с;в;;;;PART;ВСЕ;PART
+26744;2;норм;НОРМА;S f inan gen pl;;;м;р;о;н;;;S;НОРМА;S f inan gen pl
+26745;3;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26746;4;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+26747;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26748;6;блин;БЛИН;S m inan nom sg;;;н;и;л;б;;;S;БЛИН;S m inan nom sg
+26749;7;.;.;SENT;;;;;;;;;SENT;.;SENT
+26750;;;;;;;;;;;;;;;
+26751;1;Были;БЫТЬ;V ipf praet pl indic - -;;;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+26752;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26753;3;конечно;КОНЕЧНО;ADV -;;;о;н;ч;е;н;о;ADV;КОНЕЧНО;ADV -
+26754;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26755;5;эксцессы;ЭКСЦЕСС;S m inan acc pl;;;ы;с;с;е;ц;с;S;ЭКСЦЕСС;S m inan acc pl
+26756;6;…;…;SENT;;;;;;;;;SENT;…;SENT
+26757;;;;;;;;;;;;;;;
+26758;1;Ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+26759;2;как бы;как бы;-;;;ы;б;;к;а;к;-;как бы;-
+26760;3;без;БЕЗ;PR;;;з;е;б;;;;PR;БЕЗ;PR
+26761;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26762;5;бе;БЕ;INTJ;;;е;б;;;;;INTJ;БЕ;INTJ
+26763;6;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26764;7;без;БЕЗ;PR;;;з;е;б;;;;PR;БЕЗ;PR
+26765;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26766;9;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+26767;10;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+26768;11;у;У;PR;;;у;;;;;;PR;У;PR
+26769;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26770;13;никто;НИКТО;S m anim nom sg;;;о;т;к;и;н;;S;НИКТО;S m anim nom sg
+26771;14;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26772;15;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26773;16;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26774;17;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26775;18;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+26776;19;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26777;20;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26778;21;ничё;НИЧ;S m inan loc sg;distort;;ё;ч;и;н;;;S;НИЧ;S m inan loc sg
+26779;22;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26780;23;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26781;24;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26782;25;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26783;26;ничего;НИЧЕГО;ADV -;;;о;г;е;ч;и;н;ADV;НИЧЕГО;ADV -
+26784;27;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26785;28;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26786;29;";";";";SENT;;;;;;;;;SENT;";";SENT
+26787;;;;;;;;;;;;;;;
+26788;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26789;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26790;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26791;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26792;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26793;;;;;;;;;;;;;;;
+26794;1;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+26795;2;сломал;СЛОМАТЬ;V pf praet sg indic m -;;;л;а;м;о;л;с;V;СЛОМАТЬ;V pf praet sg indic m -
+26796;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26797;4;как бы;как бы;-;;;ы;б;;к;а;к;-;как бы;-
+26798;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26799;6;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+26800;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26801;8;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;ADV -
+26802;9;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26803;10;более-менее;БОЛЕЕ-МЕНЕЕ;ADV -;;;е;е;н;е;м;;ADV;БОЛЕЕ-МЕНЕЕ;ADV -
+26804;11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26805;12;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26806;13;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26807;14;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26808;15;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+26809;16;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26810;17;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26811;18;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+26812;19;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26813;20;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26814;21;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26815;22;";";";";SENT;;;;;;;;;SENT;";";SENT
+26816;;;;;;;;;;;;;;;
+26817;1;Посмеивание;ПОСМЕИВАНИЕ;S n inan acc sg;;;е;и;н;а;в;и;S;ПОСМЕИВАНИЕ;S n inan acc sg
+26818;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26819;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26820;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+26821;;;;;;;;;;;;;;;
+26822;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26823;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26824;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26825;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26826;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26827;;;;;;;;;;;;;;;
+26828;1;Вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+26829;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26830;3;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+26831;4;только;ТОЛЬКО;PART;;;о;к;ь;л;о;т;PART;ТОЛЬКО;PART
+26832;5;с;С;PR;;;с;;;;;;PR;С;PR
+26833;6;утра;УТРО;S n inan gen sg;;;а;р;т;у;;;S;УТРО;S n inan gen sg
+26834;7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26835;8;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26836;9;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26837;10;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26838;11;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+26839;12;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26840;13;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26841;14;сёдня;СЕДНИЙ;A - - sg brev f -;distort;;я;н;д;ё;с;;A;СЕДНИЙ;A - - sg brev f -
+26842;15;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26843;16;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26844;17;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26845;18;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26846;19;сегодня;СЕГОДНЯ;ADV -;;;я;н;д;о;г;е;ADV;СЕГОДНЯ;ADV -
+26847;20;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26848;21;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26849;22;";";";";SENT;;;;;;;;;SENT;";";SENT
+26850;;;;;;;;;;;;;;;
+26851;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26852;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26853;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26854;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26855;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26856;;;;;;;;;;;;;;;
+26857;1;вернулась;ВЕРНУТЬСЯ;V pf praet sg indic f -;;;ь;с;а;л;у;н;V;ВЕРНУТЬСЯ;V pf praet sg indic f -
+26858;2;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26859;3;во;ВО;PR;;;о;в;;;;;PR;ВО;PR
+26860;4;сколько;СКОЛЬКО;ADV -;;;о;к;ь;л;о;к;ADV;СКОЛЬКО;ADV -
+26861;5;?..;?..;PUNC;;;;;;;;;PUNC;?..;PUNC
+26862;6;в;В;PR;;;в;;;;;;PR;В;PR
+26863;7;двенадцать;ДВЕНАДЦАТЬ;NUM acc - -;;;ь;т;а;ц;д;а;NUM;ДВЕНАДЦАТЬ;NUM acc - -
+26864;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26865;9;да;ДА;CONJ;;;а;д;;;;;CONJ;ДА;CONJ
+26866;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26867;11;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+26868;12;все;ВСЕ;S - - acc pl;;;е;с;в;;;;S;ВСЕ;S - - acc pl
+26869;13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26870;14;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+26871;15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26872;16;ха-ха;ХА-ХА;INTJ;;;а;х;;а;х;;INTJ;ХА-ХА;INTJ
+26873;17;.;.;SENT;;;;;;;;;SENT;.;SENT
+26874;;;;;;;;;;;;;;;
+26875;1;Такая;ТАКОЙ;APRO - nom sg plen f -;;;я;а;к;а;т;;A;ТАКОЙ;A - nom sg plen f -
+26876;2;история;ИСТОРИЯ;S f inan nom sg;;;я;и;р;о;т;с;S;ИСТОРИЯ;S f inan nom sg
+26877;3;.;.;SENT;;;;;;;;;SENT;.;SENT
+26878;;;;;;;;;;;;;;;
+26879;1;За;ЗА;PR;;;а;з;;;;;PR;ЗА;PR
+26880;2;кадром;КАДР;S m inan ins sg;;;м;о;р;д;а;к;S;КАДР;S m inan ins sg
+26881;3;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+26882;4;Ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+26883;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26884;6;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+26885;7;что;ЧТО;S n inan acc sg;;;о;т;ч;;;;S;ЧТО;S n inan acc sg
+26886;8;еще;ЕЩЕ;ADV -;;;е;щ;е;;;;ADV;ЕЩЕ;ADV -
+26887;9;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+26888;10;?;?;SENT;;;;;;;;;SENT;?;SENT
+26889;;;;;;;;;;;;;;;
+26890;1;Наташа;НАТАША;S f anim nom sg;;;а;ш;а;т;а;н;S;НАТАША;S f anim nom sg
+26891;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+26892;3;Еще;ЕЩЕ;ADV -;;;е;щ;е;;;;ADV;ЕЩЕ;ADV -
+26893;4;?;?;SENT;;;;;;;;;SENT;?;SENT
+26894;;;;;;;;;;;;;;;
+26895;1;Про;ПРО;PR;;;о;р;п;;;;PR;ПРО;PR
+26896;2;конкурсы;КОНКУРС;S m inan acc pl;;;ы;с;р;у;к;н;S;КОНКУРС;S m inan acc pl
+26897;3;?;?;SENT;;;;;;;;;SENT;?;SENT
+26898;;;;;;;;;;;;;;;
+26899;1;Или;ИЛИ;CONJ;;;и;л;и;;;;CONJ;ИЛИ;CONJ
+26900;2;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26901;3;про;ПРО;PR;;;о;р;п;;;;PR;ПРО;PR
+26902;4;что;ЧТО;S n - acc sg;;;о;т;ч;;;;S;ЧТО;S n - acc sg
+26903;5;?;?;SENT;;;;;;;;;SENT;?;SENT
+26904;;;;;;;;;;;;;;;
+26905;1;За;ЗА;PR;;;а;з;;;;;PR;ЗА;PR
+26906;2;кадром;КАДР;S m inan ins sg;;;м;о;р;д;а;к;S;КАДР;S m inan ins sg
+26907;3;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+26908;4;Про;ПРО;PR;;;о;р;п;;;;PR;ПРО;PR
+26909;5;все;ВСЕ;S - - acc pl;;;е;с;в;;;;S;ВСЕ;S - - acc pl
+26910;6;!;!;SENT;;;;;;;;;SENT;!;SENT
+26911;;;;;;;;;;;;;;;
+26912;1;Наташа;НАТАША;S f anim nom sg;;;а;ш;а;т;а;н;S;НАТАША;S f anim nom sg
+26913;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+26914;3;М;М;S f inan nonflex nonflex;;;м;;;;;;S;М;S f inan nonflex nonflex
+26915;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26916;5;после;ПОСЛЕ;PR;;;е;л;с;о;п;;PR;ПОСЛЕ;PR
+26917;6;официальной;ОФИЦИАЛЬНЫЙ;A - loc sg plen f -;;;й;о;н;ь;л;а;A;ОФИЦИАЛЬНЫЙ;A - loc sg plen f -
+26918;7;части;ЧАСТЬ;S f inan loc sg;;;и;т;с;а;ч;;S;ЧАСТЬ;S f inan loc sg
+26919;8;нач;НАЧ;S m anim gen sg;;;ч;а;н;;;;S;НАЧ;S m anim gen sg
+26920;9;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26921;10;началась;НАЧАТЬСЯ;V pf praet sg indic f -;;;ь;с;а;л;а;ч;V;НАЧАТЬСЯ;V pf praet sg indic f -
+26922;11;дискотека;ДИСКОТЕКА;S f inan nom sg;;;а;к;е;т;о;к;S;ДИСКОТЕКА;S f inan nom sg
+26923;12;.;.;SENT;;;;;;;;;SENT;.;SENT
+26924;;;;;;;;;;;;;;;
+26925;1;Там;ТАМ;ADV -;;;м;а;т;;;;ADV;ТАМ;ADV -
+26926;2;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+26927;3;довольно;ДОВОЛЬНО;ADV -;;;о;н;ь;л;о;в;ADV;ДОВОЛЬНО;ADV -
+26928;4;тухло;ТУХНУТЬ;V ipf praet sg indic n -;;;о;л;х;у;т;;V;ТУХНУТЬ;V ipf praet sg indic n -
+26929;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+26930;6;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+26931;7;потом;ПОТОМ;ADV -;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+26932;8;все;ВСЕ;S - - nom pl;;;е;с;в;;;;S;ВСЕ;S - - nom pl
+26933;9;побухали;ПОБУХАТЬ;V pf praet pl indic - -;;;и;л;а;х;у;б;V;ПОБУХАТЬ;V pf praet pl indic - -
+26934;10;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+26935;11;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+26936;12;уже;УЖЕ;ADV -;;;е;ж;у;;;;ADV;УЖЕ;ADV -
+26937;13;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+26938;14;тухло;ТУХНУТЬ;V ipf praet sg indic n -;;;о;л;х;у;т;;V;ТУХНУТЬ;V ipf praet sg indic n -
+26939;15;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26940;16;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26941;17;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26942;18;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26943;19;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+26944;20;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26945;21;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26946;22;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+26947;23;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26948;24;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26949;25;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26950;26;";";";";SENT;;;;;;;;;SENT;";";SENT
+26951;;;;;;;;;;;;;;;
+26952;1;Смех;СМЕХ;S m inan nom sg;;;х;е;м;с;;;S;СМЕХ;S m inan nom sg
+26953;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26954;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26955;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+26956;;;;;;;;;;;;;;;
+26957;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26958;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+26959;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26960;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26961;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26962;;;;;;;;;;;;;;;
+26963;1;.;.;SENT;;;;;;;;;SENT;.;SENT
+26964;2;.;.;SENT;;;;;;;;;SENT;.;SENT
+26965;;;;;;;;;;;;;;;
+26966;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26967;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26968;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+26969;4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26970;5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+26971;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+26972;7;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26973;8;чё;ЧЕ;S n - nonflex nonflex;distort;;ё;ч;;;;;S;ЧЕ;S n - nonflex nonflex
+26974;9;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+26975;10;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26976;11;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26977;12;";";";";SENT;;;;;;;;;SENT;";";SENT
+26978;;;;;;;;;;;;;;;
+26979;1;Что;ЧТО;ADV -;;;о;т;ч;;;;ADV;ЧТО;ADV -
+26980;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26981;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+26982;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+26983;;;;;;;;;;;;;;;
+26984;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+26985;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+26986;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+26987;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+26988;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+26989;;;;;;;;;;;;;;;
+26990;1;еще;ЕЩЕ;ADV -;;;е;щ;е;;;;ADV;ЕЩЕ;ADV -
+26991;2;насчет;НАСЧЕТ;PR;;;т;е;ч;с;а;н;PR;НАСЧЕТ;PR
+26992;3;конкурсов;КОНКУРС;S m inan gen pl;;;в;о;с;р;у;к;S;КОНКУРС;S m inan gen pl
+26993;4;…;…;SENT;;;;;;;;;SENT;…;SENT
+26994;;;;;;;;;;;;;;;
+26995;1;Конкурсы;КОНКУРС;S m inan nom pl;;;ы;с;р;у;к;н;S;КОНКУРС;S m inan nom pl
+26996;2;были;БЫТЬ;V ipf praet pl indic - -;;;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+26997;3;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+26998;4;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+26999;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27000;6;кстати;КСТАТИ;ADV -;;;и;т;а;т;с;к;ADV;КСТАТИ;ADV -
+27001;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27002;8;сложные;СЛОЖНЫЙ;A - nom pl plen - -;;;е;ы;н;ж;о;л;A;СЛОЖНЫЙ;A - nom pl plen - -
+27003;9;.;.;SENT;;;;;;;;;SENT;.;SENT
+27004;;;;;;;;;;;;;;;
+27005;1;Например;НАПРИМЕР;ADV -;;;р;е;м;и;р;п;ADV;НАПРИМЕР;ADV -
+27006;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27007;3;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+27008;4;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+27009;5;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+27010;6;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+27011;7;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+27012;8;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+27013;9;еще;ЕЩЕ;ADV -;;;е;щ;е;;;;ADV;ЕЩЕ;ADV -
+27014;10;был;БЫТЬ;V ipf praet sg indic m -;;;л;ы;б;;;;V;БЫТЬ;V ipf praet sg indic m -
+27015;11;такой;ТАКОЙ;APRO - nom sg plen m -;;;й;о;к;а;т;;A;ТАКОЙ;A - nom sg plen m -
+27016;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27017;13;блин;БЛИН;S m inan nom sg;;;н;и;л;б;;;S;БЛИН;S m inan nom sg
+27018;14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27019;15;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+27020;16;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+27021;17;стремно;СТРЕМНЫЙ;A - - sg brev n -;;;о;н;м;е;р;т;A;СТРЕМНЫЙ;A - - sg brev n -
+27022;18;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27023;19;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+27024;20;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+27025;21;люблю;ЛЮБИТЬ;V ipf praes sg indic - 1p;;;ю;л;б;ю;л;;V;ЛЮБИТЬ;V ipf praes sg indic - 1p
+27026;22;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27027;23;когда;КОГДА;CONJ;;;а;д;г;о;к;;CONJ;КОГДА;CONJ
+27028;24;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;ADV -
+27029;25;делают;ДЕЛАТЬ;V ipf praes pl indic - 3p;;;т;ю;а;л;е;д;V;ДЕЛАТЬ;V ipf praes pl indic - 3p
+27030;26;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27031;27;потому что;потому что;CONJ;;;о;т;ч;;у;м;ZERO;потому что;ZERO
+27032;28;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27033;29;блин;БЛИН;S m inan nom sg;;;н;и;л;б;;;S;БЛИН;S m inan nom sg
+27034;30;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27035;31;в;В;PR;;;в;;;;;;PR;В;PR
+27036;32;некоторых;НЕКОТОРЫЙ;A - loc pl plen - -;;;х;ы;р;о;т;о;A;НЕКОТОРЫЙ;A - loc pl plen - -
+27037;33;странах;СТРАНА;S f inan loc pl;;;х;а;н;а;р;т;S;СТРАНА;S f inan loc pl
+27038;34;нету;НЕТУ;ADV -;;;у;т;е;н;;;ADV;НЕТУ;ADV -
+27039;35;еды;ЕДА;S f inan gen sg;;;ы;д;е;;;;S;ЕДА;S f inan gen sg
+27040;36;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27041;37;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+27042;38;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+27043;39;просто;ПРОСТО;PART;;;о;т;с;о;р;п;PART;ПРОСТО;PART
+27044;40;берем;БРАТЬ;V ipf praes pl indic - 1p;;;м;е;р;е;б;;V;БРАТЬ;V ipf praes pl indic - 1p
+27045;41;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+27046;42;выбрасываем;ВЫБРАСЫВАТЬ;V ipf praes pl indic - 1p;;;м;е;а;в;ы;с;V;ВЫБРАСЫВАТЬ;V ipf praes pl indic - 1p
+27047;43;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+27048;44;.;.;SENT;;;;;;;;;SENT;.;SENT
+27049;;;;;;;;;;;;;;;
+27050;1;Конкурс;КОНКУРС;S m inan nom sg;;;с;р;у;к;н;о;S;КОНКУРС;S m inan nom sg
+27051;2;такой;ТАКОЙ;APRO - nom sg plen m -;;;й;о;к;а;т;;A;ТАКОЙ;A - nom sg plen m -
+27052;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27053;4;например;НАПРИМЕР;ADV -;;;р;е;м;и;р;п;ADV;НАПРИМЕР;ADV -
+27054;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27055;6;нужно;НУЖНО;ADV -;;;о;н;ж;у;н;;ADV;НУЖНО;ADV -
+27056;7;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+27057;8;съесть;СЪЕСТЬ;V pf - - inf - -;;;ь;т;с;е;ъ;с;V;СЪЕСТЬ;V pf - - inf - -
+27058;9;на;НА;PR;;;а;н;;;;;PR;НА;PR
+27059;10;скорость;СКОРОСТЬ;S f inan acc sg;;;ь;т;с;о;р;о;S;СКОРОСТЬ;S f inan acc sg
+27060;11;просто;ПРОСТО;PART;;;о;т;с;о;р;п;PART;ПРОСТО;PART
+27061;12;пачку;ПАЧКА;S f inan acc sg;;;у;к;ч;а;п;;S;ПАЧКА;S f inan acc sg
+27062;13;печенья;ПЕЧЕНЬЕ;S n inan gen sg;;;я;ь;н;е;ч;е;S;ПЕЧЕНЬЕ;S n inan gen sg
+27063;14;«;«;PUNC;;;;;;;;;PUNC;«;PUNC
+27064;15;Юбилейного;ЮБИЛЕЙНЫЙ;A - gen sg plen n -;;;о;г;о;н;й;е;A;ЮБИЛЕЙНЫЙ;A - gen sg plen n -
+27065;16;»;»;PUNC;;;;;;;;;PUNC;»;PUNC
+27066;17;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27067;18;за;ЗА;PR;;;а;з;;;;;PR;ЗА;PR
+27068;19;минуту;МИНУТА;S f inan acc sg;;;у;т;у;н;и;м;S;МИНУТА;S f inan acc sg
+27069;20;!;!;SENT;;;;;;;;;SENT;!;SENT
+27070;;;;;;;;;;;;;;;
+27071;1;У;У;PR;;;у;;;;;;PR;У;PR
+27072;2;нас;МЫ;SPRO pl 1p - loc;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+27073;3;парень;ПАРЕНЬ;S m anim nom sg;;;ь;н;е;р;а;п;S;ПАРЕНЬ;S m anim nom sg
+27074;4;сидел;СИДЕТЬ;V ipf praet sg indic m -;;;л;е;д;и;с;;V;СИДЕТЬ;V ipf praet sg indic m -
+27075;5;давился;ДАВИТЬСЯ;V ipf praet sg indic m -;;;я;с;л;и;в;а;V;ДАВИТЬСЯ;V ipf praet sg indic m -
+27076;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27077;7;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+27078;8;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+27079;9;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27080;10;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+27081;11;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+27082;12;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+27083;13;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+27084;14;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+27085;15;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+27086;16;оч;ОЧ;NONLEX;distort;;ч;о;;;;;NONLEX;ОЧ;NONLEX
+27087;17;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+27088;18;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27089;19;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+27090;20;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+27091;21;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+27092;22;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27093;23;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+27094;24;";";";";SENT;;;;;;;;;SENT;";";SENT
+27095;;;;;;;;;;;;;;;
+27096;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+27097;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+27098;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27099;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+27100;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+27101;;;;;;;;;;;;;;;
+27102;1;плохо;ПЛОХО;ADV -;;;о;х;о;л;п;;ADV;ПЛОХО;ADV -
+27103;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27104;3;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+27105;4;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+27106;5;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+27107;6;.;.;SENT;;;;;;;;;SENT;.;SENT
+27108;;;;;;;;;;;;;;;
+27109;1;И;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+27110;2;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+27111;3;тоже;ТОЖЕ;PART;;;е;ж;о;т;;;PART;ТОЖЕ;PART
+27112;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27113;5;выз;ВЫЗ;S m inan acc sg;;;з;ы;в;;;;S;ВЫЗ;S m inan acc sg
+27114;6;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+27115;7;вызвалась;ВЫЗВАТЬСЯ;V pf praet sg indic f -;;;ь;с;а;л;а;в;V;ВЫЗВАТЬСЯ;V pf praet sg indic f -
+27116;8;добровольцем;ДОБРОВОЛЕЦ;S m anim ins sg;;;м;е;ц;ь;л;о;S;ДОБРОВОЛЕЦ;S m anim ins sg
+27117;9;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+27118;10;м;М;INTJ;слитно;;м;;;;;;S;М;S m inan nonflex nonflex
+27119;11;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+27120;12;м;М;INTJ;слитно;;м;;;;;;S;М;S m inan nonflex nonflex
+27121;13;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+27122;14;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+27123;15;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+27124;16;знала;ЗНАТЬ;V ipf praet sg indic f -;;;а;л;а;н;з;;V;ЗНАТЬ;V ipf praet sg indic f -
+27125;17;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27126;18;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+27127;19;мне;Я;SPRO sg 1p - loc;;;е;н;м;;;;SPRO;Я;SPRO sg 1p - loc
+27128;20;придется;ПРИДТИСЬ;V pf fut sg indic - 3p;;;я;с;т;е;д;и;V;ПРИДТИСЬ;V pf fut sg indic - 3p
+27129;21;это;ЭТО;S n - nom sg;;;о;т;э;;;;S;ЭТО;S n - nom sg
+27130;22;есть;БЫТЬ;V ipf praes sg indic - 3p;;;ь;т;с;е;;;V;БЫТЬ;V ipf praes sg indic - 3p
+27131;23;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27132;24;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+27133;25;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+27134;26;пришлось;ПРИДТИСЬ;V pf praet sg indic n -;;;ь;с;о;л;ш;и;V;ПРИДТИСЬ;V pf praet sg indic n -
+27135;27;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27136;28;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+27137;29;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+27138;30;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+27139;31;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+27140;32;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+27141;33;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+27142;34;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+27143;35;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+27144;36;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27145;37;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+27146;38;";";";";SENT;;;;;;;;;SENT;";";SENT
+27147;;;;;;;;;;;;;;;
+27148;1;Посмеивание;ПОСМЕИВАНИЕ;S n inan acc sg;;;е;и;н;а;в;и;S;ПОСМЕИВАНИЕ;S n inan acc sg
+27149;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27150;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+27151;4;";";";";SENT;;;;;;;;;SENT;";";SENT
+27152;;;;;;;;;;;;;;;
+27153;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+27154;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+27155;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27156;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+27157;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+27158;;;;;;;;;;;;;;;
+27159;1;.;.;SENT;;;;;;;;;SENT;.;SENT
+27160;2;.;.;SENT;;;;;;;;;SENT;.;SENT
+27161;;;;;;;;;;;;;;;
+27162;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27163;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+27164;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+27165;4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+27166;5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+27167;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+27168;7;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+27169;8;вщем;ВЩЕМ;S m inan acc sg;distort;;м;е;щ;в;;;S;ВЩЕМ;S m inan acc sg
+27170;9;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+27171;10;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27172;11;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+27173;12;";";";";SENT;;;;;;;;;SENT;";";SENT
+27174;;;;;;;;;;;;;;;
+27175;1;В;В;S - - nonflex nonflex;;;в;;;;;;S;В;S - - nonflex nonflex
+27176;2;общем;ОБЩИЙ;S n inan loc sg;;;м;е;щ;б;о;;A;ОБЩИЙ;A - loc sg plen m -
+27177;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27178;4;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+27179;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+27180;;;;;;;;;;;;;;;
+27181;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+27182;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+27183;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27184;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+27185;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+27186;;;;;;;;;;;;;;;
+27187;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27188;2;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+27189;3;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;ADV -
+27190;4;.;.;SENT;;;;;;;;;SENT;.;SENT
+27191;;;;;;;;;;;;;;;
+27192;1;За;ЗА;PR;;;а;з;;;;;PR;ЗА;PR
+27193;2;кадром;КАДР;S m inan ins sg;;;м;о;р;д;а;к;S;КАДР;S m inan ins sg
+27194;3;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+27195;4;Ты;ТЫ;SPRO sg 2p - nom;;;ы;т;;;;;SPRO;ТЫ;SPRO sg 2p - nom
+27196;5;выдержала;ВЫДЕРЖАТЬ;V pf praet sg indic f -;;;а;л;а;ж;р;е;V;ВЫДЕРЖАТЬ;V pf praet sg indic f -
+27197;6;это;ЭТО;S n - acc sg;;;о;т;э;;;;S;ЭТО;S n - acc sg
+27198;7;.;.;SENT;;;;;;;;;SENT;.;SENT
+27199;;;;;;;;;;;;;;;
+27200;1;Наташа;НАТАША;S f anim nom sg;;;а;ш;а;т;а;н;S;НАТАША;S f anim nom sg
+27201;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+27202;3;Я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+27203;4;как бы;как бы;-;;;ы;б;;к;а;к;-;как бы;-
+27204;5;съела;СЪЕСТЬ;V pf praet sg indic f -;;;а;л;е;ъ;с;;V;СЪЕСТЬ;V pf praet sg indic f -
+27205;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27206;7;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+27207;8;это;ЭТО;S n - nom sg;;;о;т;э;;;;S;ЭТО;S n - nom sg
+27208;9;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+27209;10;мне;Я;SPRO sg 1p - loc;;;е;н;м;;;;SPRO;Я;SPRO sg 1p - loc
+27210;11;невкусно;НЕВКУСНО;ADV -;;;о;н;с;у;к;в;ADV;НЕВКУСНО;ADV -
+27211;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27212;13;это;ЭТО;S n inan acc sg;;;о;т;э;;;;S;ЭТО;S n inan acc sg
+27213;14;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+27214;15;норм;НОРМА;S f inan gen pl;;;м;р;о;н;;;S;НОРМА;S f inan gen pl
+27215;16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27216;17;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+27217;18;надо;НАДО;ADV -;;;о;д;а;н;;;ADV;НАДО;ADV -
+27218;19;было;БЫТЬ;V ipf praet sg indic n -;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+27219;20;тоже;ТОЖЕ;PART;;;е;ж;о;т;;;PART;ТОЖЕ;PART
+27220;21;на;НА;PR;;;а;н;;;;;PR;НА;PR
+27221;22;скорость;СКОРОСТЬ;S f inan acc sg;;;ь;т;с;о;р;о;S;СКОРОСТЬ;S f inan acc sg
+27222;23;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27223;24;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+27224;25;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+27225;26;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+27226;27;успе;УСП;S m inan loc sg;distort;;е;п;с;у;;;S;УСП;S m inan loc sg
+27227;28;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+27228;29;потому что;потому что;CONJ;;;о;т;ч;;у;м;ZERO;потому что;ZERO
+27229;30;у;У;PR;;;у;;;;;;PR;У;PR
+27230;31;меня;Я;SPRO sg 1p - acc;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p - acc
+27231;32;сломалась;СЛОМАТЬСЯ;V pf praet sg indic f -;;;ь;с;а;л;а;м;V;СЛОМАТЬСЯ;V pf praet sg indic f -
+27232;33;ложка;ЛОЖКА;S f inan nom sg;;;а;к;ж;о;л;;S;ЛОЖКА;S f inan nom sg
+27233;34;!;!;SENT;;;;;;;;;SENT;!;SENT
+27234;;;;;;;;;;;;;;;
+27235;1;За;ЗА;PR;;;а;з;;;;;PR;ЗА;PR
+27236;2;кадром;КАДР;S m inan ins sg;;;м;о;р;д;а;к;S;КАДР;S m inan ins sg
+27237;3;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+27238;4;О;О;INTJ;слитно;;о;;;;;;S;О;S - - nonflex nonflex
+27239;5;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+27240;6;о;О;INTJ;слитно;;о;;;;;;S;О;S - - nonflex nonflex
+27241;7;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+27242;8;о;О;INTJ;слитно;;о;;;;;;INTJ;О;INTJ
+27243;9;…;…;SENT;;;;;;;;;SENT;…;SENT
+27244;;;;;;;;;;;;;;;
+27245;1;Наташа;НАТАША;S f anim nom sg;;;а;ш;а;т;а;н;S;НАТАША;S f anim nom sg
+27246;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+27247;3;Это;ЭТО;SPRO n - nom sg;;;о;т;э;;;;S;ЭТО;S n - nom sg
+27248;4;был;БЫТЬ;V ipf praet sg indic m -;;;л;ы;б;;;;V;БЫТЬ;V ipf praet sg indic m -
+27249;5;коктейль;КОКТЕЙЛЬ;S m inan nom sg;;;ь;л;й;е;т;к;S;КОКТЕЙЛЬ;S m inan acc sg
+27250;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27251;7;типа;ТИПА;PART;;;а;п;и;т;;;S;ТИП;S m inan gen sg
+27252;8;такой;ТАКОЙ;APRO - nom sg plen f -;;;й;о;к;а;т;;A;ТАКОЙ;A - gen sg plen f -
+27253;9;пластиковый;ПЛАСТИКОВЫЙ;A - acc sg plen m inan;;;й;ы;в;о;к;и;A;ПЛАСТИКОВЫЙ;A - acc sg plen m inan
+27254;10;стаканчик;СТАКАНЧИК;S m inan nom sg;;;к;и;ч;н;а;к;S;СТАКАНЧИК;S m inan acc sg
+27255;11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27256;12;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+27257;13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27258;14;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+27259;15;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+27260;16;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+27261;17;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+27262;18;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+27263;19;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+27264;20;так как;так как;ZERO;;;к;а;к;;к;а;ZERO;так как;ZERO
+27265;21;там;ТАМ;ADV -;;;м;а;т;;;;ADV;ТАМ;ADV -
+27266;22;были;БЫТЬ;V ipf praet pl indic - -;;;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+27267;23;бананы;БАНАН;S m inan acc pl;;;ы;н;а;н;а;б;S;БАНАН;S m inan acc pl
+27268;24;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27269;25;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+27270;26;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+27271;27;успели;УСПЕТЬ;V pf praet pl indic - -;;;и;л;е;п;с;у;V;УСПЕТЬ;V pf praet pl indic - -
+27272;28;их;ОНИ;SPRO pl - - acc;;;х;и;;;;;SPRO;ОНИ;SPRO pl - - acc
+27273;29;перемешать;ПЕРЕМЕШАТЬ;V pf - - inf - -;;;ь;т;а;ш;е;м;V;ПЕРЕМЕШАТЬ;V pf - - inf - -
+27274;30;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27275;31;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+27276;32;решила;РЕШИТЬ;V pf praet sg indic f -;;;а;л;и;ш;е;р;V;РЕШИТЬ;V pf praet sg indic f -
+27277;33;есть;ЕСТЬ;V ipf - - inf - -;;;ь;т;с;е;;;V;ЕСТЬ;V ipf - - inf - -
+27278;34;ложкой;ЛОЖКА;S f inan ins sg;;;й;о;к;ж;о;л;S;ЛОЖКА;S f inan ins sg
+27279;35;.;.;SENT;;;;;;;;;SENT;.;SENT
+27280;;;;;;;;;;;;;;;
+27281;1;И;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+27282;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27283;3;короче;КОРОЧЕ;PART;;;е;ч;о;р;о;к;A;КОРОТКИЙ;A comp - - plen - -
+27284;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27285;5;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+27286;6;ем;ЕСТЬ;V ipf praes sg indic - 1p;;;м;е;;;;;V;ЕСТЬ;V ipf praes sg indic - 1p
+27287;7;ложкой;ЛОЖКА;S f inan ins sg;;;й;о;к;ж;о;л;S;ЛОЖКА;S f inan ins sg
+27288;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27289;9;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom
+27290;10;сломалась;СЛОМАТЬСЯ;V pf praet sg indic f -;;;ь;с;а;л;а;м;V;СЛОМАТЬСЯ;V pf praet sg indic f -
+27291;11;!;!;SENT;;;;;;;;;SENT;!;SENT
+27292;;;;;;;;;;;;;;;
+27293;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27294;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+27295;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+27296;4;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+27297;5;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+27298;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+27299;7;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+27300;8;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+27301;9;”;”;PUNC;;;;;;;;;PUNC;”;PUNC
+27302;10;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27303;11;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+27304;12;";";";";SENT;;;;;;;;;SENT;";";SENT
+27305;;;;;;;;;;;;;;;
+27306;1;Звуки;ЗВУК;S m inan nom pl;;;и;к;у;в;з;;S;ЗВУК;S m inan nom pl
+27307;2;сочувствия;СОЧУВСТВИЕ;S n inan gen sg;;;я;и;в;т;с;в;S;СОЧУВСТВИЕ;S n inan gen sg
+27308;3;за;ЗА;PR;;;а;з;;;;;PR;ЗА;PR
+27309;4;кадром;КАДР;S m inan ins sg;;;м;о;р;д;а;к;S;КАДР;S m inan ins sg
+27310;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27311;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+27312;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+27313;;;;;;;;;;;;;;;
+27314;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+27315;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+27316;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+27317;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+27318;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+27319;;;;;;;;;;;;;;;
+27320;1;У;У;PR;;;у;;;;;;PR;У;PR
+27321;2;меня;Я;SPRO sg 1p - acc;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p - acc
+27322;3;нет;НЕТ;ADV -;;;т;е;н;;;;ADV;НЕТ;ADV -
+27323;4;времени;ВРЕМЯ;S n inan gen sg;;;и;н;е;м;е;р;S;ВРЕМЯ;S n inan gen sg
+27324;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27325;6;да;ДА;PART;;;а;д;;;;;PART;ДА;PART
+27326;7;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+27327;8;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+27328;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27329;10;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+27330;11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27331;12;в;В;PR;;;в;;;;;;PR;В;PR
+27332;13;общем;ОБЩИЙ;S n inan loc sg;;;м;е;щ;б;о;;A;ОБЩИЙ;A - loc sg plen m -
+27333;14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27334;15;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART
+27335;16;конкретно;КОНКРЕТНО;ADV -;;;о;н;т;е;р;к;ADV;КОНКРЕТНО;ADV -
+27336;17;тот;ТОТ;A - nom sg plen m -;;;т;о;т;;;;A;ТОТ;A - nom sg plen m -
+27337;18;конкурс;КОНКУРС;S m inan nom sg;;;с;р;у;к;н;о;S;КОНКУРС;S m inan nom sg
+27338;19;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27339;20;он;ОН;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+27340;21;назывался;НАЗЫВАТЬСЯ;V ipf praet sg indic m -;;;я;с;л;а;в;ы;V;НАЗЫВАТЬСЯ;V ipf praet sg indic m -
+27341;22;«;«;PUNC;;;;;;;;;PUNC;«;PUNC
+27342;23;Смак;СМАК;S m inan nom sg;;;к;а;м;с;;;S;СМАК;S m inan nom sg
+27343;24;»;»;PUNC;;;;;;;;;PUNC;»;PUNC
+27344;25;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27345;26;потому что;потому что;CONJ;;;о;т;ч;;у;м;ZERO;потому что;ZERO
+27346;27;у;У;PR;;;у;;;;;;PR;У;PR
+27347;28;нас;МЫ;SPRO pl 1p - loc;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+27348;29;типа;ТИПА;PART;;;а;п;и;т;;;S;ТИП;S m inan gen sg
+27349;30;телешоу;ТЕЛЕШОУ;S n inan nonflex nonflex;;;у;о;ш;е;л;е;S;ТЕЛЕШОУ;S n inan nonflex nonflex
+27350;31;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+27351;32;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+27352;33;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+27353;34;телешоу;ТЕЛЕШОУ;S n inan nonflex nonflex;;;у;о;ш;е;л;е;S;ТЕЛЕШОУ;S n inan nonflex nonflex
+27354;35;были;БЫТЬ;V ipf praet pl indic - -;;;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+27355;36;станции;СТАНЦИЯ;S f inan nom pl;;;и;и;ц;н;а;т;S;СТАНЦИЯ;S f inan nom pl
+27356;37;.;.;SENT;;;;;;;;;SENT;.;SENT
+27357;;;;;;;;;;;;;;;
+27358;1;Конкретно;КОНКРЕТНО;ADV -;;;о;н;т;е;р;к;ADV;КОНКРЕТНО;ADV -
+27359;2;его;ОН;SPRO sg 3p m acc;;;о;г;е;;;;SPRO;ОН;SPRO sg 3p m acc
+27360;3;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+27361;4;проиграли;ПРОИГРАТЬ;V pf praet pl indic - -;;;и;л;а;р;г;и;V;ПРОИГРАТЬ;V pf praet pl indic - -
+27362;5;.;.;SENT;;;;;;;;;SENT;.;SENT
+27363;;;;;;;;;;;;;;;
+27364;1;За;ЗА;PR;;;а;з;;;;;PR;ЗА;PR
+27365;2;кадром;КАДР;S m inan ins sg;;;м;о;р;д;а;к;S;КАДР;S m inan ins sg
+27366;3;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+27367;4;Да;ДА;PART;слитно;;а;д;;;;;PART;ДА;PART
+27368;5;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+27369;6;а;А;CONJ;слитно;;а;;;;;;CONJ;А;CONJ
+27370;7;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+27371;8;спасибо;СПАСИБО;S n inan nonflex nonflex;;;о;б;и;с;а;п;S;СПАСИБО;S n inan nonflex nonflex
+27372;9;тебе;ТЫ;SPRO sg 2p - dat;;;е;б;е;т;;;SPRO;ТЫ;SPRO sg 2p - loc
+27373;10;большое;БОЛЬШОЙ;A - nom sg plen n inan;;;е;о;ш;ь;л;о;A;БОЛЬШОЙ;A - acc sg plen n inan
+27374;11;!;!;SENT;;;;;;;;;SENT;!;SENT
+27375;;;;;;;;;;;;;;;
+27376;1;Наташа;НАТАША;S f anim nom sg;;;а;ш;а;т;а;н;S;НАТАША;S f anim nom sg
+27377;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+27378;3;Пожалуйста;ПОЖАЛУЙСТА;PART;;;а;т;с;й;у;л;PART;ПОЖАЛУЙСТА;PART
+27379;4;.;.;SENT;;;;;;;;;SENT;.;SENT
